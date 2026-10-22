@@ -1,0 +1,273 @@
+{
+ "n_briefs": 20,
+ "backends": {
+  "rules": {
+   "schema_valid": 1.0,
+   "constraints": 71,
+   "satisfied": 0.9436619718309859,
+   "by_type": {
+    "product": {
+     "n": 20,
+     "satisfied": 1.0
+    },
+    "palette": {
+     "n": 20,
+     "satisfied": 0.85
+    },
+    "density": {
+     "n": 9,
+     "satisfied": 0.8888888888888888
+    },
+    "story": {
+     "n": 22,
+     "satisfied": 1.0
+    }
+   },
+   "seconds": {
+    "mean": 0.0002933992001999286,
+    "std": 0.0006184332367305896,
+    "n": 20
+   },
+   "rows": [
+    {
+     "brief": "A3 frame for my parents' anniversary. Wedding and harvest, maroon and mustard, busy, traditional border.",
+     "checks": {
+      "product": true,
+      "palette": false,
+      "density": true,
+      "story_wedding": true,
+      "story_harvest": true
+     },
+     "seconds": 0.0029085739988659043,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Wall art for a living room showing the tarpa dance, white on indigo.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "story_tarpa": true
+     },
+     "seconds": 0.00022373399770003743,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Saree with forest animals and peacocks, forest green and saffron, a chain of dancers on the border.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "story_forest": true
+     },
+     "seconds": 0.0002529580015107058,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Diary cover about village life, mustard and rust, calm and minimal.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "density": true,
+      "story_village_day": true
+     },
+     "seconds": 0.00017686399951344356,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Phone wallpaper of the tarpa dance in rings, white on charcoal.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "story_tarpa": true
+     },
+     "seconds": 0.0001730959993437864,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Wallpaper for a nursery with jungle animals, teal and ochre, not too busy.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "density": false,
+      "story_forest": true
+     },
+     "seconds": 0.00016251299894065596,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "T-shirt print of a harvest scene, black and white.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "story_harvest": true
+     },
+     "seconds": 0.00015878100020927377,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Notebook cover for a farmer's market stall: sowing and reaping, earthy red.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "story_harvest": true
+     },
+     "seconds": 0.00016455100194434635,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "My sister is getting married. A framed print with the marriage square, navy and coral, packed with detail.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "density": true,
+      "story_wedding": true
+     },
+     "seconds": 0.00034262099870829843,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Lock screen with peacocks and fish by the river, dark green.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "story_forest": true
+     },
+     "seconds": 0.00011548400289029814,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "A sari for Diwali: festival dancers, crimson and gold, rich.",
+     "checks": {
+      "product": true,
+      "palette": false,
+      "density": true,
+      "story_tarpa": true
+     },
+     "seconds": 0.00012667600094573572,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Kitchen wall paper, everyday village chores, cream and rust, airy.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "density": true,
+      "story_village_day": true
+     },
+     "seconds": 0.0001348350015177857,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Tee with a big wedding chauk on the chest, indigo and coral.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "story_wedding": true
+     },
+     "seconds": 0.0001311510022787843,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "A3 poster of the forest at night, white on black, simple.",
+     "checks": {
+      "product": true,
+      "palette": false,
+      "density": true,
+      "story_forest": true
+     },
+     "seconds": 0.00014962599743739702,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Journal for a dance teacher, tarpa music, saffron.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "story_tarpa": true
+     },
+     "seconds": 9.977700028684922e-05,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Frame for a new home: the village, huts and wells, geru red, traditional.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "story_village_day": true
+     },
+     "seconds": 0.00010664900037227198,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Mobile wallpaper, harvest goddess with grain, mustard yellow, detailed.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "density": true,
+      "story_harvest": true
+     },
+     "seconds": 0.00010079000276164152,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Room wallpaper in brick repeat, animals of the forest, ivory and forest green.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "story_forest": true
+     },
+     "seconds": 0.00011653399997157976,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "Shirt for a wedding guest, procession with drummers and a horse, maroon.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "story_wedding": true
+     },
+     "seconds": 0.00010181600009673275,
+     "fallback": false,
+     "usage": {}
+    },
+    {
+     "brief": "A4 print for a harvest festival, dancers and crops, teal and white, balanced.",
+     "checks": {
+      "product": true,
+      "palette": true,
+      "density": true,
+      "story_harvest": true,
+      "story_tarpa": true
+     },
+     "seconds": 0.00012095399870304391,
+     "fallback": false,
+     "usage": {}
+    }
+   ]
+  },
+  "ollama": {
+   "status": "not run: ollama not installed"
+  },
+  "claude": {
+   "status": "not run: CHHAAP_PLANNER=claude not set (uses the user's paid quota)"
+  }
+ },
+ "note": "briefs and the rules backend were written by the same author; briefs fixed before any planner ran on them"
+}

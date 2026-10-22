@@ -1,0 +1,47 @@
+{
+ "brief": "A4 frame, Warli harvest with a Mandana border, white on geru.",
+ "planner": {
+  "plan": {
+   "product": "frame_a4",
+   "template": "registers",
+   "density": "balanced",
+   "repeat": null,
+   "palette_id": "white_on_geru",
+   "border_style": "dehri",
+   "story_beats": [
+    {
+     "beat": "sowing",
+     "symbol_ids": [
+      "farmer",
+      "bird",
+      "sun"
+     ]
+    },
+    {
+     "beat": "reaping",
+     "symbol_ids": [
+      "kansari",
+      "tree",
+      "ladder"
+     ]
+    },
+    {
+     "beat": "dance at night",
+     "symbol_ids": [
+      "tarpa_player",
+      "woman",
+      "moon"
+     ]
+    }
+   ],
+   "hero_symbol_id": "kansari",
+   "notes": "rules: stories harvest, mandana; fusion: Mandana border around a Warli centre"
+  },
+  "backend": "rules",
+  "requested": "rules",
+  "seconds": 0.00019611800234997645,
+  "attempts": 0,
+  "usage": {},
+  "fallback": false
+ }
+}

@@ -1,0 +1,18 @@
+[
+ {"id": "white_on_geru", "name": "White on geru", "kind": "traditional", "tags": ["white", "geru", "ochre", "red", "brown", "mud", "traditional"],
+  "ground": "#9a4527", "ink": "#f4ecdc", "accent": "#fffaf0", "border": "#f4ecdc", "filler": "#e6d6bd"},
+ {"id": "white_on_maroon", "name": "White on maroon", "kind": "traditional", "tags": ["white", "maroon", "red", "wine", "traditional"],
+  "ground": "#5c1a22", "ink": "#f3eadb", "accent": "#fffaf0", "border": "#f3eadb", "filler": "#e2d2c0"},
+ {"id": "white_on_indigo", "name": "White on indigo", "kind": "traditional", "tags": ["white", "indigo", "blue", "navy", "traditional"],
+  "ground": "#1f2a5c", "ink": "#f1ece0", "accent": "#fffaf0", "border": "#f1ece0", "filler": "#d3d3d8"},
+ {"id": "white_on_charcoal", "name": "White on charcoal", "kind": "traditional", "tags": ["white", "black", "charcoal", "grey", "gray", "traditional"],
+  "ground": "#25221f", "ink": "#f2ede3", "accent": "#fffaf0", "border": "#f2ede3", "filler": "#cfc9be"},
+ {"id": "mustard_rust_cream", "name": "Mustard, rust and cream", "kind": "contemporary", "tags": ["mustard", "yellow", "rust", "orange", "cream", "contemporary"],
+  "ground": "#f2e4c4", "ink": "#9c3d1c", "accent": "#d49a17", "border": "#9c3d1c", "filler": "#d49a17"},
+ {"id": "teal_ochre_white", "name": "Teal, ochre and white", "kind": "contemporary", "tags": ["teal", "green", "blue", "ochre", "yellow", "white", "contemporary"],
+  "ground": "#1d5a5e", "ink": "#f6f2e8", "accent": "#d79a2b", "border": "#d79a2b", "filler": "#f6f2e8"},
+ {"id": "indigo_coral_cream", "name": "Indigo, coral and cream", "kind": "contemporary", "tags": ["indigo", "blue", "navy", "coral", "pink", "orange", "cream", "contemporary"],
+  "ground": "#262f6a", "ink": "#f3e8d3", "accent": "#ec6b55", "border": "#ec6b55", "filler": "#f3e8d3"},
+ {"id": "forest_saffron_ivory", "name": "Forest, saffron and ivory", "kind": "contemporary", "tags": ["forest", "green", "saffron", "orange", "ivory", "white", "contemporary"],
+  "ground": "#1e4733", "ink": "#faf5e6", "accent": "#f0952b", "border": "#f0952b", "filler": "#faf5e6"}
+]

@@ -1,0 +1,46 @@
+{
+ "brief": "Wallpaper for a nursery with forest animals, teal and ochre.",
+ "planner": {
+  "plan": {
+   "product": "wallpaper",
+   "template": "all_over_buti",
+   "density": "balanced",
+   "repeat": "half_drop",
+   "palette_id": "teal_ochre_white",
+   "border_style": null,
+   "story_beats": [
+    {
+     "beat": "hills",
+     "symbol_ids": [
+      "mountain",
+      "tree"
+     ]
+    },
+    {
+     "beat": "animals",
+     "symbol_ids": [
+      "peacock",
+      "animal",
+      "bird"
+     ]
+    },
+    {
+     "beat": "river",
+     "symbol_ids": [
+      "fish",
+      "tree",
+      "sun"
+     ]
+    }
+   ],
+   "hero_symbol_id": "peacock",
+   "notes": "rules: stories forest"
+  },
+  "backend": "rules",
+  "requested": "rules",
+  "seconds": 0.00017892900359584019,
+  "attempts": 0,
+  "usage": {},
+  "fallback": false
+ }
+}

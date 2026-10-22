@@ -1,0 +1,23 @@
+{
+ "images_per_class": {
+  "gond": 98,
+  "kalighat": 244,
+  "kangra": 87,
+  "kerala mural": 94,
+  "madhubani": 95,
+  "mandana": 140,
+  "pichwai": 96,
+  "warli": 56
+ },
+ "total_images": 910,
+ "warli_readable": 97,
+ "warli_kept": 56,
+ "warli_train": 45,
+ "warli_heldout": 11,
+ "warli_drops": {
+  "short side < 512": 17,
+  "manual review": 22,
+  "CLIP filter": 2
+ },
+ "lexicon_rows": 25
+}

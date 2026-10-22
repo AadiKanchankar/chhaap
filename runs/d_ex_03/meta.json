@@ -1,0 +1,1813 @@
+{
+ "id": "d_ex_03",
+ "mode": "vector",
+ "seed": 43,
+ "textured": true,
+ "label": "AI-generated, Warli-inspired. Not a GI-certified Warli painting.",
+ "packs": [
+  "warli"
+ ],
+ "settings": {},
+ "plan": {
+  "product": "phone",
+  "template": "tarpa_spiral",
+  "density": "balanced",
+  "repeat": null,
+  "palette_id": "white_on_charcoal",
+  "border_style": null,
+  "story_beats": [
+   {
+    "beat": "evening",
+    "symbol_ids": [
+     "sun",
+     "hut",
+     "tree"
+    ]
+   },
+   {
+    "beat": "the dance",
+    "symbol_ids": [
+     "tarpa_player",
+     "drummer",
+     "woman",
+     "human"
+    ]
+   },
+   {
+    "beat": "night",
+    "symbol_ids": [
+     "moon",
+     "bird"
+    ]
+   }
+  ],
+  "hero_symbol_id": "tarpa_player",
+  "notes": "rules: stories tarpa"
+ },
+ "parts": [
+  {
+   "name": "1290x2796",
+   "W": 1290,
+   "H": 2796,
+   "template": "tarpa_spiral",
+   "repeat": null,
+   "border": null,
+   "stylize": true,
+   "seed": 430
+  },
+  {
+   "name": "1080x2400",
+   "W": 1080,
+   "H": 2400,
+   "template": "tarpa_spiral",
+   "repeat": null,
+   "border": null,
+   "stylize": true,
+   "seed": 431
+  }
+ ],
+ "previews": [
+  "preview_1080x2400.png",
+  "preview_1290x2796.png"
+ ],
+ "elements": [
+  {
+   "id": 0,
+   "sid": "tarpa_player",
+   "role": "hero",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 2,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 3,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 4,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 5,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 6,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 7,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 8,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 9,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 10,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 11,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 12,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 13,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 14,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 15,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 16,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 17,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 18,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 19,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 20,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 21,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 23,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 24,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 25,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 26,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 27,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 28,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 29,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 30,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 31,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 32,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 33,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 34,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 35,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 36,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 37,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 38,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 39,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 40,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 41,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 42,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 43,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 44,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 45,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 46,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 47,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 48,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 49,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 50,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 51,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 52,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 53,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 55,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 56,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 57,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 58,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 59,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 60,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 61,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 62,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 63,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 64,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 65,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 66,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 67,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 68,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 69,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 70,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 71,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 72,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 73,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 74,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 75,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 76,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 77,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 78,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 79,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 80,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 81,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 82,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 83,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 84,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 85,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 86,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 87,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 88,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 89,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 90,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 91,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 92,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 93,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 94,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 95,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 96,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 97,
+   "sid": "sun",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 98,
+   "sid": "hut",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 99,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 100,
+   "sid": "moon",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 101,
+   "sid": "bird",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 102,
+   "sid": "sun",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 103,
+   "sid": "hut",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 104,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 105,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 110,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "1290x2796"
+  },
+  {
+   "id": 0,
+   "sid": "tarpa_player",
+   "role": "hero",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 2,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 3,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 4,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 5,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 6,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 7,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 8,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 9,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 10,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 11,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 12,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 13,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 14,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 15,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 16,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 17,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 18,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 19,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 20,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 21,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 23,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 24,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 25,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 26,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 27,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 28,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 29,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 30,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 31,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 32,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 33,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 34,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 35,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 36,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 37,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 38,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 39,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 40,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 41,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 42,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 43,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 44,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 45,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 46,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 47,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 48,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 49,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 50,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 51,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 52,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 53,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 55,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 56,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 57,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 58,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 59,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 60,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 61,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 62,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 63,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 64,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 65,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 66,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 67,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 68,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 69,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 70,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 71,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 72,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 73,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 74,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 75,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 76,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 77,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 78,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 79,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 80,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 81,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 82,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 83,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 84,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 85,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 86,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 87,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 88,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 89,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 90,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 91,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 92,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 93,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 94,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 95,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 96,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 97,
+   "sid": "sun",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 98,
+   "sid": "hut",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 99,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 100,
+   "sid": "moon",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 101,
+   "sid": "bird",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 102,
+   "sid": "sun",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 103,
+   "sid": "hut",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 104,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 106,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 110,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 113,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 114,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 119,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 121,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 124,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 125,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 127,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  },
+  {
+   "id": 128,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "1080x2400"
+  }
+ ],
+ "timing": {
+  "layout_1290x2796": 0.008937555998272728,
+  "layout_1080x2400": 0.010792582994326949,
+  "render_preview": 0.7892220579960849,
+  "total": 0.8090447229988058
+ },
+ "coverage": {
+  "1290x2796": 0.12040642076502732,
+  "1080x2400": 0.12200447145951233
+ }
+}

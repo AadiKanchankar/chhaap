@@ -1,0 +1,44 @@
+{
+ "product": "saree",
+ "template": "all_over_buti",
+ "density": "balanced",
+ "repeat": "half_drop",
+ "palette_id": "forest_saffron_ivory",
+ "border_style": "dancers",
+ "story_beats": [
+  {
+   "beat": "animals",
+   "symbol_ids": [
+    "peacock",
+    "animal",
+    "bird"
+   ]
+  },
+  {
+   "beat": "the dance",
+   "symbol_ids": [
+    "tarpa_player",
+    "drummer",
+    "woman",
+    "human"
+   ]
+  },
+  {
+   "beat": "hills",
+   "symbol_ids": [
+    "mountain",
+    "tree"
+   ]
+  },
+  {
+   "beat": "river",
+   "symbol_ids": [
+    "fish",
+    "tree",
+    "sun"
+   ]
+  }
+ ],
+ "hero_symbol_id": "peacock",
+ "notes": "rules: stories forest, tarpa"
+}

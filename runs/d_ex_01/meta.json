@@ -1,0 +1,1002 @@
+{
+ "id": "d_ex_01",
+ "mode": "vector",
+ "seed": 41,
+ "textured": true,
+ "label": "AI-generated, Warli-inspired. Not a GI-certified Warli painting.",
+ "packs": [
+  "warli"
+ ],
+ "settings": {},
+ "plan": {
+  "product": "saree",
+  "template": "all_over_buti",
+  "density": "balanced",
+  "repeat": "half_drop",
+  "palette_id": "forest_saffron_ivory",
+  "border_style": "dancers",
+  "story_beats": [
+   {
+    "beat": "animals",
+    "symbol_ids": [
+     "peacock",
+     "animal",
+     "bird"
+    ]
+   },
+   {
+    "beat": "the dance",
+    "symbol_ids": [
+     "tarpa_player",
+     "drummer",
+     "woman",
+     "human"
+    ]
+   },
+   {
+    "beat": "hills",
+    "symbol_ids": [
+     "mountain",
+     "tree"
+    ]
+   },
+   {
+    "beat": "river",
+    "symbol_ids": [
+     "fish",
+     "tree",
+     "sun"
+    ]
+   }
+  ],
+  "hero_symbol_id": "peacock",
+  "notes": "rules: stories forest, tarpa"
+ },
+ "parts": [
+  {
+   "name": "body",
+   "W": 1024,
+   "H": 1024,
+   "template": "all_over_buti",
+   "repeat": "half_drop",
+   "border": null,
+   "stylize": true,
+   "seed": 410
+  },
+  {
+   "name": "border",
+   "W": 3600,
+   "H": 400,
+   "template": "strip",
+   "repeat": null,
+   "border": "dancers",
+   "stylize": false,
+   "seed": 411
+  },
+  {
+   "name": "pallu",
+   "W": 3600,
+   "H": 2400,
+   "template": "registers",
+   "repeat": null,
+   "border": null,
+   "stylize": true,
+   "seed": 412
+  }
+ ],
+ "previews": [
+  "preview_body_tile.png",
+  "preview_border.png",
+  "preview_pallu.png"
+ ],
+ "elements": [
+  {
+   "id": 0,
+   "sid": "peacock",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 1,
+   "sid": "animal",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 2,
+   "sid": "bird",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 3,
+   "sid": "tarpa_player",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 4,
+   "sid": "drummer",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 5,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 6,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 7,
+   "sid": "mountain",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 8,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 9,
+   "sid": "fish",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 10,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 11,
+   "sid": "sun",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 12,
+   "sid": "peacock",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 13,
+   "sid": "animal",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 14,
+   "sid": "bird",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 15,
+   "sid": "tarpa_player",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 22,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 23,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 26,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 31,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 32,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 46,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 53,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 56,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 61,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 62,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 66,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 68,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 76,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 87,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 91,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 93,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 97,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 101,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 103,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 105,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 110,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 111,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 112,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 115,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 128,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 135,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 139,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 149,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 151,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 155,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 158,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 160,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 170,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 173,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 180,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 181,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "body"
+  },
+  {
+   "id": 0,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 1,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 2,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 3,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 4,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 5,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 6,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 7,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 8,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 9,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 10,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 11,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 12,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 13,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 14,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 15,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 16,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 17,
+   "sid": "human",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "border"
+  },
+  {
+   "id": 0,
+   "sid": "peacock",
+   "role": "hero",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 1,
+   "sid": "animal",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 2,
+   "sid": "bird",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 3,
+   "sid": "animal",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 4,
+   "sid": "bird",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 5,
+   "sid": "animal",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 6,
+   "sid": "bird",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 7,
+   "sid": "animal",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 8,
+   "sid": "bird",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 179,
+   "sid": "tarpa_player",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 180,
+   "sid": "drummer",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 181,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 182,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 183,
+   "sid": "tarpa_player",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 184,
+   "sid": "drummer",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 185,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 186,
+   "sid": "human",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 187,
+   "sid": "tarpa_player",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 188,
+   "sid": "drummer",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 189,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 360,
+   "sid": "mountain",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 361,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 362,
+   "sid": "mountain",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 363,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 364,
+   "sid": "mountain",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 365,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 366,
+   "sid": "mountain",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 367,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 368,
+   "sid": "mountain",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 369,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 370,
+   "sid": "mountain",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 541,
+   "sid": "fish",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 542,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 543,
+   "sid": "sun",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 544,
+   "sid": "fish",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 545,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 546,
+   "sid": "sun",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 547,
+   "sid": "fish",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 548,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 549,
+   "sid": "sun",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 550,
+   "sid": "fish",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  },
+  {
+   "id": 551,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "pallu"
+  }
+ ],
+ "timing": {
+  "layout_body": 0.3716365720028989,
+  "layout_border": 0.001075839994882699,
+  "layout_pallu": 0.011269025999354199,
+  "render_preview": 1.169671160998405,
+  "total": 1.5538200440059882
+ },
+ "coverage": {
+  "body": 0.12196180555555555,
+  "border": 0.394341290893015,
+  "pallu": 0.14578736027203995
+ }
+}

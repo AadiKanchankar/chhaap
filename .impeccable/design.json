@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-22T06:43:30+00:00",
+  "title": "Design System: Chhaap",
+  "extensions": {
+    "colorMeta": {
+      "geru": {
+        "role": "neutral",
+        "displayName": "Geru Red-Ochre",
+        "canonical": "#9a4527",
+        "tonalRamp": [
+          "oklch(15% 0.122 39)",
+          "oklch(26% 0.122 39)",
+          "oklch(37% 0.122 39)",
+          "oklch(48% 0.122 39)",
+          "oklch(59% 0.122 39)",
+          "oklch(70% 0.122 39)",
+          "oklch(82% 0.122 39)",
+          "oklch(95% 0.122 39)"
+        ]
+      },
+      "geru-deep": {
+        "role": "neutral",
+        "displayName": "Burnt Geru",
+        "canonical": "#6f2c15",
+        "tonalRamp": [
+          "oklch(15% 0.101 39)",
+          "oklch(26% 0.101 39)",
+          "oklch(37% 0.101 39)",
+          "oklch(48% 0.101 39)",
+          "oklch(59% 0.101 39)",
+          "oklch(70% 0.101 39)",
+          "oklch(82% 0.101 39)",
+          "oklch(95% 0.101 39)"
+        ]
+      },
+      "geru-line": {
+        "role": "neutral",
+        "displayName": "Geru Line",
+        "canonical": "#b8644a",
+        "tonalRamp": [
+          "oklch(15% 0.115 38)",
+          "oklch(26% 0.115 38)",
+          "oklch(37% 0.115 38)",
+          "oklch(48% 0.115 38)",
+          "oklch(59% 0.115 38)",
+          "oklch(70% 0.115 38)",
+          "oklch(82% 0.115 38)",
+          "oklch(95% 0.115 38)"
+        ]
+      },
+      "rice": {
+        "role": "neutral",
+        "displayName": "Rice Paste",
+        "canonical": "#f2e9d8",
+        "tonalRamp": [
+          "oklch(15% 0.025 83)",
+          "oklch(26% 0.025 83)",
+          "oklch(37% 0.025 83)",
+          "oklch(48% 0.025 83)",
+          "oklch(59% 0.025 83)",
+          "oklch(70% 0.025 83)",
+          "oklch(82% 0.025 83)",
+          "oklch(95% 0.025 83)"
+        ]
+      },
+      "rice-2": {
+        "role": "neutral",
+        "displayName": "Rice Paste Shade",
+        "canonical": "#e7dbc3",
+        "tonalRamp": [
+          "oklch(15% 0.035 85)",
+          "oklch(26% 0.035 85)",
+          "oklch(37% 0.035 85)",
+          "oklch(48% 0.035 85)",
+          "oklch(59% 0.035 85)",
+          "oklch(70% 0.035 85)",
+          "oklch(82% 0.035 85)",
+          "oklch(95% 0.035 85)"
+        ]
+      },
+      "rice-3": {
+        "role": "neutral",
+        "displayName": "Rice Paste Edge",
+        "canonical": "#d9c9aa",
+        "tonalRamp": [
+          "oklch(15% 0.045 84)",
+          "oklch(26% 0.045 84)",
+          "oklch(37% 0.045 84)",
+          "oklch(48% 0.045 84)",
+          "oklch(59% 0.045 84)",
+          "oklch(70% 0.045 84)",
+          "oklch(82% 0.045 84)",
+          "oklch(95% 0.045 84)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Charcoal Ink",
+        "canonical": "#231e1a",
+        "tonalRamp": [
+          "oklch(15% 0.011 61)",
+          "oklch(26% 0.011 61)",
+          "oklch(37% 0.011 61)",
+          "oklch(48% 0.011 61)",
+          "oklch(59% 0.011 61)",
+          "oklch(70% 0.011 61)",
+          "oklch(82% 0.011 61)",
+          "oklch(95% 0.011 61)"
+        ]
+      },
+      "ink-2": {
+        "role": "neutral",
+        "displayName": "Faded Ink",
+        "canonical": "#594a3d",
+        "tonalRamp": [
+          "oklch(15% 0.029 63)",
+          "oklch(26% 0.029 63)",
+          "oklch(37% 0.029 63)",
+          "oklch(48% 0.029 63)",
+          "oklch(59% 0.029 63)",
+          "oklch(70% 0.029 63)",
+          "oklch(82% 0.029 63)",
+          "oklch(95% 0.029 63)"
+        ]
+      },
+      "indigo": {
+        "role": "primary",
+        "displayName": "Block-print Indigo",
+        "canonical": "#2b3c74",
+        "tonalRamp": [
+          "oklch(15% 0.098 269)",
+          "oklch(26% 0.098 269)",
+          "oklch(37% 0.098 269)",
+          "oklch(48% 0.098 269)",
+          "oklch(59% 0.098 269)",
+          "oklch(70% 0.098 269)",
+          "oklch(82% 0.098 269)",
+          "oklch(95% 0.098 269)"
+        ]
+      },
+      "indigo-deep": {
+        "role": "primary",
+        "displayName": "Indigo Deep",
+        "canonical": "#1d2a55",
+        "tonalRamp": [
+          "oklch(15% 0.08 269)",
+          "oklch(26% 0.08 269)",
+          "oklch(37% 0.08 269)",
+          "oklch(48% 0.08 269)",
+          "oklch(59% 0.08 269)",
+          "oklch(70% 0.08 269)",
+          "oklch(82% 0.08 269)",
+          "oklch(95% 0.08 269)"
+        ]
+      },
+      "on-geru": {
+        "role": "neutral",
+        "displayName": "Paste on Geru",
+        "canonical": "#f6ecdb",
+        "tonalRamp": [
+          "oklch(15% 0.025 81)",
+          "oklch(26% 0.025 81)",
+          "oklch(37% 0.025 81)",
+          "oklch(48% 0.025 81)",
+          "oklch(59% 0.025 81)",
+          "oklch(70% 0.025 81)",
+          "oklch(82% 0.025 81)",
+          "oklch(95% 0.025 81)"
+        ]
+      },
+      "error-oxide": {
+        "role": "error",
+        "displayName": "Oxide Error",
+        "canonical": "#8c1d0e",
+        "tonalRamp": [
+          "oklch(15% 0.149 31)",
+          "oklch(26% 0.149 31)",
+          "oklch(37% 0.149 31)",
+          "oklch(48% 0.149 31)",
+          "oklch(59% 0.149 31)",
+          "oklch(70% 0.149 31)",
+          "oklch(82% 0.149 31)",
+          "oklch(95% 0.149 31)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Wordmark only."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Sheet titles."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Stage, Provenance and meaning-card section heads; stamp label; Devanagari wordmark."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Rozha caption under the mockup plate."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Prose, the brief textarea and number fields, tabular numerals."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Tabs, buttons, chips, field and plan-row labels, hints, captions, readout terms (0.75-0.95rem)."
+      },
+      "mono": {
+        "displayName": "Mono",
+        "purpose": "Under the hood only: plan JSON, survival table, prompt lines, timings."
+      }
+    },
+    "shadows": [
+      {
+        "name": "pinned-sheet",
+        "value": "0 10px 24px -8px rgba(48, 16, 4, .55), 0 2px 4px rgba(48, 16, 4, .25)",
+        "purpose": "Every proof sheet resting on the geru board."
+      },
+      {
+        "name": "stamp-rest",
+        "value": "0 3px 6px -1px rgba(29, 42, 85, .5)",
+        "purpose": "Indigo stamp button at rest."
+      },
+      {
+        "name": "stamp-pressed",
+        "value": "0 1px 2px rgba(29, 42, 85, .5)",
+        "purpose": "Stamp button on :active, with translateY(2px)."
+      },
+      {
+        "name": "press-bar",
+        "value": "0 -6px 16px -6px rgba(48, 16, 4, .45)",
+        "purpose": "Fixed bottom press bar under 900px."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(.16, 1, .3, 1)",
+        "purpose": "All transitions and the stamp settle."
+      },
+      {
+        "name": "press",
+        "value": "120ms",
+        "purpose": "Stamp button press-down."
+      },
+      {
+        "name": "hover",
+        "value": "200ms",
+        "purpose": "Background and border hover changes."
+      },
+      {
+        "name": "stamp-settle",
+        "value": "550ms",
+        "purpose": "New proof tile arrives: slight scale, blur clearing."
+      },
+      {
+        "name": "fade-in",
+        "value": "400ms",
+        "purpose": "Denoising step thumbnails."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "none",
+        "purpose": "prefers-reduced-motion disables all animation and transitions."
+      },
+      {
+        "name": "disclosure",
+        "value": "200ms",
+        "purpose": "Press settings chevron turns from right to down."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "bench-stack",
+        "value": "900px"
+      },
+      {
+        "name": "phone",
+        "value": "560px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Stamp Button",
+      "kind": "button",
+      "refersTo": "button-stamp",
+      "description": "The single indigo action in view (Print design); presses down on click.",
+      "html": "<button class=\"ds-stamp\">Print design</button>",
+      "css": ".ds-stamp{font:400 1.25rem/1 'Rozha One',Georgia,serif;color:var(--rice);background:var(--indigo);border:2px solid var(--indigo-deep);padding:12px 24px 10px;min-height:48px;cursor:pointer;border-radius:0;box-shadow:0 3px 6px -1px rgba(29,42,85,.5);transition:transform .12s cubic-bezier(.16,1,.3,1),box-shadow .12s cubic-bezier(.16,1,.3,1),background .2s}.ds-stamp:hover{background:var(--indigo-deep)}.ds-stamp:active{transform:translateY(2px);box-shadow:0 1px 2px rgba(29,42,85,.5)}.ds-stamp:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}"
+    },
+    {
+      "name": "Quiet Button",
+      "kind": "button",
+      "refersTo": "button-quiet",
+      "description": "Every secondary action: Read the brief, Add a beat, New seed.",
+      "html": "<button class=\"ds-quiet\">Read the brief</button>",
+      "css": ".ds-quiet{font:500 .9rem/1.2 Hind,system-ui,sans-serif;color:var(--ink);background:transparent;border:1px solid var(--ink);padding:8px 12px;min-height:40px;cursor:pointer;border-radius:0}.ds-quiet:hover{background:var(--rice-2)}.ds-quiet:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}"
+    },
+    {
+      "name": "Quiet Button, Strong",
+      "kind": "button",
+      "refersTo": "button-quiet-strong",
+      "description": "The weightiest non-stamp action (Prepare print files), so only one indigo stamp is ever in view.",
+      "html": "<button class=\"ds-quiet-strong\">Prepare print files</button>",
+      "css": ".ds-quiet-strong{font:600 .9rem/1.2 Hind,system-ui,sans-serif;color:var(--ink);background:transparent;border:2px solid var(--ink);padding:8px 16px;min-height:44px;cursor:pointer;border-radius:0}.ds-quiet-strong:hover{background:var(--rice-2)}.ds-quiet-strong:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}"
+    },
+    {
+      "name": "Product Card",
+      "kind": "card",
+      "refersTo": "product-card",
+      "description": "Carved-block radio for the product, with a drawn SVG glyph; chosen inverts to charcoal.",
+      "html": "<div class=\"ds-products\" role=\"radiogroup\"><button class=\"ds-product\" role=\"radio\" aria-checked=\"true\"><svg viewBox=\"0 0 40 40\" width=\"40\" height=\"40\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"9\" y=\"4\" width=\"22\" height=\"32\"/><rect x=\"13\" y=\"8\" width=\"14\" height=\"24\"/><path d=\"M16 26l4-7 4 7z\"/></svg><span>A3 frame</span><small>A3, 297 x 420 mm</small></button><button class=\"ds-product\" role=\"radio\" aria-checked=\"false\"><svg viewBox=\"0 0 40 40\" width=\"40\" height=\"40\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"5\" y=\"5\" width=\"30\" height=\"30\"/><path d=\"M12 10l3 4-3 4-3-4zM28 10l3 4-3 4-3-4zM20 20l3 4-3 4-3-4z\"/></svg><span>Wallpaper</span><small>Repeating tile</small></button></div>",
+      "css": ".ds-products{display:grid;grid-template-columns:repeat(auto-fill,minmax(98px,1fr));gap:8px;max-width:340px}.ds-product{display:grid;justify-items:start;gap:2px;text-align:left;cursor:pointer;min-height:96px;background:var(--rice-2);color:var(--ink);border:2px solid var(--ink);border-radius:0;padding:8px 8px 8px 12px;font:500 .9rem/1.15 Hind,system-ui,sans-serif;transition:background .2s cubic-bezier(.16,1,.3,1)}.ds-product svg{margin:0 0 4px -4px}.ds-product small{font-size:.75rem;color:var(--ink-2);font-weight:400}.ds-product:hover{background:var(--rice-3)}.ds-product[aria-checked=true]{background:var(--ink);color:var(--rice)}.ds-product[aria-checked=true] small{color:var(--rice-3)}.ds-product:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}"
+    },
+    {
+      "name": "Choice Chips",
+      "kind": "chip",
+      "refersTo": "choice-chip",
+      "description": "Plan choices (Layout, Repeat, Density): separate wrapping chips; chosen inverts to charcoal.",
+      "html": "<div class=\"ds-seg\" role=\"radiogroup\"><button role=\"radio\" aria-checked=\"false\">Sparse</button><button role=\"radio\" aria-checked=\"true\">Balanced</button><button role=\"radio\" aria-checked=\"false\">Busy</button></div>",
+      "css": ".ds-seg{display:flex;flex-wrap:wrap;gap:4px}.ds-seg button{font:500 .875rem/1.2 Hind,system-ui,sans-serif;color:var(--ink);background:transparent;border:1px solid var(--ink);border-radius:0;min-height:34px;padding:4px 10px;cursor:pointer}.ds-seg button:hover{background:var(--rice-2)}.ds-seg button[aria-checked=true]{background:var(--ink);color:var(--rice)}.ds-seg button:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}"
+    },
+    {
+      "name": "Palette Swatch",
+      "kind": "chip",
+      "refersTo": "palette-swatch",
+      "description": "Palette radio: a four-colour strip over its name; chosen thickens to a 2px charcoal border instead of inverting.",
+      "html": "<div class=\"ds-swatches\" role=\"radiogroup\"><button class=\"ds-swatch\" role=\"radio\" aria-checked=\"true\"><span class=\"ds-chips5\"><i style=\"background:#f2e9d8\"></i><i style=\"background:#5a1a1a\"></i><i style=\"background:#d9a21b\"></i><i style=\"background:#231e1a\"></i></span><small>Maroon and mustard</small></button><button class=\"ds-swatch\" role=\"radio\" aria-checked=\"false\"><span class=\"ds-chips5\"><i style=\"background:#9a4527\"></i><i style=\"background:#f2e9d8\"></i><i style=\"background:#2b3c74\"></i><i style=\"background:#231e1a\"></i></span><small>Geru wall</small></button></div>",
+      "css": ".ds-swatches{display:grid;grid-template-columns:repeat(auto-fill,minmax(68px,1fr));gap:8px;max-width:300px}.ds-swatch{display:grid;gap:3px;padding:3px;background:transparent;border:1px solid var(--rice-3);border-radius:0;cursor:pointer;text-align:left;color:var(--ink)}.ds-swatch small{font:400 .75rem/1.15 Hind,system-ui,sans-serif;color:var(--ink-2);min-height:2.3em}.ds-swatch:hover{border-color:var(--ink)}.ds-swatch[aria-checked=true]{border:2px solid var(--ink);padding:2px}.ds-swatch[aria-checked=true] small{color:var(--ink);font-weight:600}.ds-chips5{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;height:22px}.ds-chips5 i{display:block}.ds-swatch:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}"
+    },
+    {
+      "name": "Symbol Chip",
+      "kind": "chip",
+      "refersTo": "symbol-chip",
+      "description": "A placed symbol in a story beat; clicking removes it, so hover turns the border dashed.",
+      "html": "<button class=\"ds-sym\"><i></i>Tarpa dancer</button>",
+      "css": ".ds-sym{display:inline-flex;gap:4px;align-items:center;font:400 .75rem/1.1 Hind,system-ui,sans-serif;color:var(--ink);background:var(--rice-2);border:1px solid var(--ink);border-radius:0;padding:3px 6px 3px 3px;min-height:30px;cursor:pointer}.ds-sym i{width:20px;height:20px;background:var(--ink);display:block}.ds-sym:hover{border-style:dashed;color:var(--ink-2)}.ds-sym:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}"
+    },
+    {
+      "name": "Brief and Underline Fields",
+      "kind": "input",
+      "refersTo": "textarea-brief",
+      "description": "The boxed brief textarea, and the underline-only select used across the plan card.",
+      "html": "<div class=\"ds-fields\"><textarea class=\"ds-brief\" rows=\"3\" placeholder=\"A3 frame for my parents' anniversary. Wedding and harvest, maroon and mustard.\"></textarea><select class=\"ds-select\"><option>Rice-grain border</option><option>No border</option></select></div>",
+      "css": ".ds-fields{display:grid;gap:12px;max-width:340px;background:var(--rice);padding:12px}.ds-brief{width:100%;font:400 1rem/1.5 Hind,system-ui,sans-serif;color:var(--ink);background:var(--rice);border:2px solid var(--ink);border-radius:0;padding:12px;resize:vertical}.ds-brief::placeholder{color:var(--ink-2)}.ds-select{font:500 .95rem Hind,system-ui,sans-serif;color:var(--ink);background:var(--rice);width:100%;min-height:38px;border:0;border-bottom:2px solid var(--ink);border-radius:0;padding:4px 0;cursor:pointer}.ds-brief:focus-visible,.ds-select:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}"
+    },
+    {
+      "name": "Swatch-book Tabs",
+      "kind": "nav",
+      "refersTo": "tab",
+      "description": "Proof-book tabs cut from the geru board; the selected tab joins the sheet.",
+      "html": "<div class=\"ds-tabs\" role=\"tablist\"><button role=\"tab\" aria-selected=\"true\">Design</button><button role=\"tab\" aria-selected=\"false\">Under the hood</button><button role=\"tab\" aria-selected=\"false\">Meaning card</button><button role=\"tab\" aria-selected=\"false\">Gallery</button></div>",
+      "css": ".ds-tabs{display:flex;gap:2px;background:var(--geru);padding:0 24px}.ds-tabs [role=tab]{font:500 .95rem/1 Hind,system-ui,sans-serif;color:var(--on-geru);background:var(--geru-deep);border:0;border-radius:0;padding:12px 16px 10px;min-height:44px;margin-top:8px;cursor:pointer}.ds-tabs [role=tab]:hover{background:var(--geru-deeper)}.ds-tabs [role=tab][aria-selected=true]{background:var(--rice);color:var(--ink);margin-top:0;padding-top:14px}.ds-tabs [role=tab]:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}"
+    },
+    {
+      "name": "Sheet",
+      "kind": "card",
+      "refersTo": "proof-sheet",
+      "description": "Rice-paste sheet pinned to the geru board, registration crosses at each corner.",
+      "html": "<div class=\"ds-board\"><section class=\"ds-sheet\"><h2>The brief</h2><p>Describe the piece: who it is for, the story, colours, how busy.</p></section></div>",
+      "css": ".ds-board{background:var(--geru);padding:24px}.ds-sheet{position:relative;background:var(--rice);color:var(--ink);padding:24px;border-radius:0;box-shadow:0 10px 24px -8px rgba(48,16,4,.55),0 2px 4px rgba(48,16,4,.25);background-image:var(--reg),var(--reg),var(--reg),var(--reg);background-repeat:no-repeat;background-position:6px 6px,calc(100% - 6px) 6px,6px calc(100% - 6px),calc(100% - 6px) calc(100% - 6px)}.ds-sheet h2{font:400 1.75rem/1.1 'Rozha One',Georgia,serif;margin:0 0 8px}.ds-sheet p{font:400 1rem/1.55 Hind,system-ui,sans-serif;margin:0}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Sample Book on the Workbench",
+    "overview": "Chhaap is a block-printer's sample book laid on a geru-plastered board. Every working surface is a rice-paste sheet pinned to that red-ochre ground, marked at its four corners with registration crosses; the masthead is a darker strip of the same plaster. Ink is charcoal. One accent, block-print indigo, is reserved for the live action and the active state, so the eye always finds the press.\n\nColour fields are flat and unmodulated: no gradients, no glass, no paper texture faked in CSS. The only texture on screen belongs to the generated designs and their mockups. Corners are square everywhere, edges are inked rules (2px for structure, 1px for subdivision), and numbers sit in fixed tabular cells, like a job ticket. Density is that of a working tool: two columns at desktop (the brief on the left, the proof book on the right), one column on phones with the press pinned to the bottom edge.",
+    "keyCharacteristics": [
+      "Geru board, rice-paste sheets, charcoal ink, one indigo accent.",
+      "Square corners; inked 2px structural rules, 1px or dashed subdivisions.",
+      "Corner registration crosses on every sheet.",
+      "Swatch-book tabs cut from the board colour.",
+      "A single indigo stamp button that presses down on click.",
+      "Carved-block choices that invert to charcoal when chosen.",
+      "Tabular numerals throughout."
+    ],
+    "rules": [
+      {
+        "name": "The One Stamp Rule",
+        "body": "Indigo marks the live action and the active state only. A screen has one indigo stamp in view; every other action is a quiet button, and everything else selected is charcoal on rice.",
+        "section": "colors"
+      },
+      {
+        "name": "The Flat Field Rule",
+        "body": "Every colour is a flat field. No gradients, no tints layered over tints, no CSS paper grain.",
+        "section": "colors"
+      },
+      {
+        "name": "The Tabular Ticket Rule",
+        "body": "`font-variant-numeric: tabular-nums` is set on the body; numbers in readouts, scores and the survival table sit in fixed cells and never shift width.",
+        "section": "typography"
+      },
+      {
+        "name": "The Mono-Under-the-Hood Rule",
+        "body": "JetBrains Mono appears only where the model's internals are shown. Everywhere else is Hind or Rozha One.",
+        "section": "typography"
+      },
+      {
+        "name": "The Paper-on-Board Rule",
+        "body": "Shadows are soft and warm-tinted from the geru, never hard offset blocks. Only sheets, the stamp, and the phone press bar carry one.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do set every working surface as a Rice Paste sheet on the geru board, with the four registration crosses and the Pinned sheet shadow.",
+      "Do keep indigo to one stamp button per view plus focus, selection, links and native control accents; give any second weighty action the strong quiet button.",
+      "Do show selection by inverting to charcoal on rice (product cards, choice chips); where the content is colour (palette swatches), thicken the border to 2px charcoal instead.",
+      "Do use dashed borders only to mean empty, off or lost.",
+      "Do draw icons as SVG line art in the current colour (one 1.6 stroke on a 40-unit grid).",
+      "Do keep numbers in fixed tabular cells.",
+      "Do honour `prefers-reduced-motion`: all animation and transitions switch off."
+    ],
+    "donts": [
+      "Don't round a corner.",
+      "Don't use gradients, glass, CSS paper texture or emoji.",
+      "Don't use hard offset shadows; depth is the soft warm Pinned sheet shadow only.",
+      "Don't put a second indigo stamp in view.",
+      "Don't use JetBrains Mono outside Under the hood.",
+      "Don't build a sidebar-plus-KPI-card dashboard; the bench is a brief and a proof book."
+    ]
+  }
+}

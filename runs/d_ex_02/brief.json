@@ -1,0 +1,46 @@
+{
+ "brief": "Diary cover about village life, mustard and rust, calm and minimal.",
+ "planner": {
+  "plan": {
+   "product": "diary",
+   "template": "registers",
+   "density": "sparse",
+   "repeat": null,
+   "palette_id": "mustard_rust_cream",
+   "border_style": "triangles",
+   "story_beats": [
+    {
+     "beat": "morning",
+     "symbol_ids": [
+      "sun",
+      "woman_pot",
+      "tree"
+     ]
+    },
+    {
+     "beat": "work",
+     "symbol_ids": [
+      "farmer",
+      "animal",
+      "man"
+     ]
+    },
+    {
+     "beat": "home",
+     "symbol_ids": [
+      "hut",
+      "bird"
+     ]
+    }
+   ],
+   "hero_symbol_id": "hut",
+   "notes": "rules: stories village_day"
+  },
+  "backend": "rules",
+  "requested": "rules",
+  "seconds": 0.00012008100020466372,
+  "attempts": 0,
+  "usage": {},
+  "fallback": false
+ }
+}

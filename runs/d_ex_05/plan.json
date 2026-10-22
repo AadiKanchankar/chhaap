@@ -1,0 +1,36 @@
+{
+ "product": "tee",
+ "template": "medallion",
+ "density": "balanced",
+ "repeat": null,
+ "palette_id": "indigo_coral_cream",
+ "border_style": null,
+ "story_beats": [
+  {
+   "beat": "procession",
+   "symbol_ids": [
+    "drummer",
+    "tarpa_player",
+    "horse"
+   ]
+  },
+  {
+   "beat": "the marriage square",
+   "symbol_ids": [
+    "lagna_chauk",
+    "pachsera_deva"
+   ]
+  },
+  {
+   "beat": "celebration",
+   "symbol_ids": [
+    "woman",
+    "man",
+    "tree",
+    "bird"
+   ]
+  }
+ ],
+ "hero_symbol_id": "lagna_chauk",
+ "notes": "rules: stories wedding"
+}

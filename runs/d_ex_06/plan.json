@@ -1,0 +1,41 @@
+{
+ "product": "frame_a4",
+ "template": "mandana_medallion",
+ "density": "dense",
+ "repeat": null,
+ "palette_id": "white_on_maroon",
+ "border_style": "dehri",
+ "story_beats": [
+  {
+   "beat": "the lotus",
+   "symbol_ids": [
+    "m_lotus8",
+    "m_shahphulya"
+   ]
+  },
+  {
+   "beat": "arrival",
+   "symbol_ids": [
+    "m_paglya",
+    "m_surya",
+    "m_chandra"
+   ]
+  },
+  {
+   "beat": "Lakshmi's square",
+   "symbol_ids": [
+    "m_lakshmi_chowk",
+    "m_lakshmi_rath"
+   ]
+  },
+  {
+   "beat": "welcome",
+   "symbol_ids": [
+    "m_paglya",
+    "m_bijni"
+   ]
+  }
+ ],
+ "hero_symbol_id": "m_lakshmi_chowk",
+ "notes": "rules: stories diwali, mandana"
+}

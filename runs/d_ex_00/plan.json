@@ -1,0 +1,44 @@
+{
+ "product": "frame_a3",
+ "template": "medallion",
+ "density": "dense",
+ "repeat": null,
+ "palette_id": "white_on_maroon",
+ "border_style": "triangles",
+ "story_beats": [
+  {
+   "beat": "the marriage square",
+   "symbol_ids": [
+    "lagna_chauk",
+    "pachsera_deva"
+   ]
+  },
+  {
+   "beat": "reaping",
+   "symbol_ids": [
+    "kansari",
+    "tree",
+    "ladder"
+   ]
+  },
+  {
+   "beat": "procession",
+   "symbol_ids": [
+    "drummer",
+    "tarpa_player",
+    "horse"
+   ]
+  },
+  {
+   "beat": "celebration",
+   "symbol_ids": [
+    "woman",
+    "man",
+    "tree",
+    "bird"
+   ]
+  }
+ ],
+ "hero_symbol_id": "lagna_chauk",
+ "notes": "rules: stories wedding, harvest"
+}

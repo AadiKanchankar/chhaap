@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chhaap</title>
+<meta name="description" content="Seamless Warli-inspired repeat patterns, generated locally, with a meaning card for every placed symbol.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Hind:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+<header class="masthead">
+  <a class="wordmark" href="/"><span>Chhaap</span><span class="wordmark-dev" lang="mr">छाप</span></a>
+  <p class="masthead-line">Warli repeat workbench. Every model runs on this machine.</p>
+  <p class="machine" id="machine" aria-live="polite">Models load on first proof</p>
+</header>
+
+<main id="workbench" class="bench">
+  <section class="sheet block" aria-labelledby="brief-h">
+    <h2 id="brief-h">The brief</h2>
+
+    <div class="group">
+      <label class="brief-label" for="brief">Describe the piece: who it is for, the story, colours, how busy</label>
+      <textarea id="brief" rows="4" placeholder="A3 frame for my parents' anniversary. Wedding and harvest, maroon and mustard, busy, traditional border."></textarea>
+      <div class="chips" id="examples" aria-label="Example briefs"></div>
+    </div>
+
+    <fieldset class="group">
+      <legend>Product <span class="hint" id="product-note"></span></legend>
+      <div class="products" id="products" role="radiogroup" aria-label="Product"></div>
+    </fieldset>
+
+    <div class="press press-read"><button class="btn-quiet" id="read" type="button">Read the brief</button><p class="hint" id="planner-hint"></p></div>
+
+    <fieldset class="group plan" id="plan" disabled>
+      <legend>Plan <span class="hint">edit anything before printing</span></legend>
+      <div class="plan-row"><span class="plan-k">Layout</span><div class="seg wrap" id="tpl" role="radiogroup" aria-label="Layout"></div></div>
+      <div class="plan-row" id="repeat-row" hidden><span class="plan-k">Repeat</span><div class="seg" id="rep" role="radiogroup" aria-label="Repeat"></div></div>
+      <div class="plan-row"><span class="plan-k">Density</span><div class="seg" id="dens" role="radiogroup" aria-label="Density"></div></div>
+      <div class="plan-row"><span class="plan-k">Palette</span><div class="swatches" id="pal" role="radiogroup" aria-label="Palette"></div></div>
+      <label class="plan-row"><span class="plan-k">Border</span><select id="border"></select></label>
+      <label class="plan-row"><span class="plan-k">Hero</span><select id="hero"></select></label>
+      <div class="plan-row beats-row"><span class="plan-k">Story</span><ol class="beats" id="beats"></ol></div>
+      <button class="btn-quiet" id="add-beat" type="button">Add a beat</button>
+    </fieldset>
+
+    <details class="group press-settings" id="press-settings">
+      <summary>Press settings</summary>
+      <div class="settings">
+      <div class="field range"><span>Rendering</span>
+        <div class="seg" id="mode" role="radiogroup" aria-label="Rendering"><button type="button" role="radio" aria-checked="true" data-v="stylized">Hand-painted (diffusion)</button><button type="button" role="radio" aria-checked="false" data-v="vector">Vector only</button></div>
+      </div>
+      <label class="field"><span>Seed</span>
+        <span class="seed-row"><input id="seed" type="number" min="0" step="1" value="7" inputmode="numeric"><button type="button" class="btn-quiet" id="reseed">New seed</button></span>
+      </label>
+      <label class="field"><span>Steps</span><input id="steps" type="number" min="2" max="50" value="6" inputmode="numeric"></label>
+      <label class="field"><span>Guidance (CFG)</span><input id="cfg" type="number" min="1" max="12" step="0.5" value="1"></label>
+      <label class="field range"><span><span>Warli LoRA strength <span class="hint" id="lora-hint"></span></span><output id="lora-out">0.8</output></span><input id="lora" type="range" min="0" max="1.2" step="0.1" value="0.8"></label>
+      <label class="field range"><span>ControlNet strength <output id="cn-out">0.7</output></span><input id="cn" type="range" min="0" max="1.5" step="0.05" value="0.7"></label>
+      <label class="switch"><input id="texture" type="checkbox" checked><span>Mud-wall texture on raster files</span></label>
+      </div>
+    </details>
+  </section>
+
+  <section class="sheet proofbook" aria-label="Proof book">
+    <div class="tabs" role="tablist" aria-label="Proof book">
+      <button role="tab" id="t-design" aria-controls="p-design" aria-selected="true">Design</button>
+      <button role="tab" id="t-hood" aria-controls="p-hood" aria-selected="false" tabindex="-1">Under the hood</button>
+      <button role="tab" id="t-repeat" aria-controls="p-repeat" aria-selected="false" tabindex="-1">Repeat</button>
+      <button role="tab" id="t-meaning" aria-controls="p-meaning" aria-selected="false" tabindex="-1">Meaning card</button>
+      <button role="tab" id="t-export" aria-controls="p-export" aria-selected="false" tabindex="-1">Export</button>
+      <button role="tab" id="t-gallery" aria-controls="p-gallery" aria-selected="false" tabindex="-1">Gallery</button>
+      <button role="tab" id="t-prov" aria-controls="p-prov" aria-selected="false" tabindex="-1">Provenance</button>
+    </div>
+
+    <div class="panel" role="tabpanel" id="p-design" aria-labelledby="t-design">
+      <figure class="plate mock">
+        <div class="mock-img" id="mock-wrap"><img id="mockup" alt="The design on its product mockup" hidden><p class="empty" id="mock-empty">No design yet. Write a brief, pick a product and press Print design. A hand-painted design takes one to three minutes on this CPU; vector only takes a few seconds.</p></div>
+        <figcaption id="caption"></figcaption>
+      </figure>
+      <div class="press press-main">
+        <button class="stamp" id="print" type="button">Print design</button>
+        <p class="status" id="status" role="status" aria-live="polite"></p>
+      </div>
+      <ol class="strip" id="strip" aria-label="Denoising steps"></ol>
+      <dl class="readout" id="readout"></dl>
+      <div class="deliverables" id="deliverables"></div>
+    </div>
+
+    <div class="panel" role="tabpanel" id="p-hood" aria-labelledby="t-hood" hidden>
+      <ol class="stages" id="stages"></ol>
+    </div>
+
+    <div class="panel" role="tabpanel" id="p-repeat" aria-labelledby="t-repeat" hidden>
+      <div id="repeat-box"></div>
+    </div>
+
+    <div class="panel" role="tabpanel" id="p-meaning" aria-labelledby="t-meaning" hidden>
+      <div id="card" class="card"><p class="empty">Print a design to see what its symbols mean.</p></div>
+    </div>
+
+    <div class="panel" role="tabpanel" id="p-export" aria-labelledby="t-export" hidden>
+      <p>Print files are drawn at 300 DPI from vectors, never upscaled. Every file carries the label <q>AI-generated, Warli-inspired. Not a GI-certified Warli painting.</q> in its metadata, and the mockup shows it.</p>
+      <div class="press"><button class="btn-quiet strong" id="do-export" type="button">Prepare print files</button></div>
+      <p class="status" id="export-status" role="status" aria-live="polite"></p>
+      <ul class="files" id="files"></ul>
+    </div>
+
+    <div class="panel" role="tabpanel" id="p-gallery" aria-labelledby="t-gallery" hidden>
+      <ul class="gallery" id="gallery"></ul>
+    </div>
+
+    <div class="panel prose" role="tabpanel" id="p-prov" aria-labelledby="t-prov" hidden>
+      <h3>Where the training images came from</h3>
+      <p>The style images are the Kaggle <a href="https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset">Indian paintings dataset</a> (ajg117): eight classes, of which only the Warli class trains the LoRA. The images were scraped from the web and the dataset gives no clear license. Chhaap treats them as research use only, and a held-out fifth of the Warli images is never trained on.</p>
+      <h3>Who owns Warli</h3>
+      <p>Warli painting received a Geographical Indication in 2014. A GI protects the name and the community's claim on the craft: a print from this tool is not a Warli painting and must not be sold as one. Who counts as the community is contested. Gond painting received its GI in April 2023, awarded to two organisations in Dindori district; Bhopal-based Gond artists and the family of Jangarh Singh Shyam objected to being left off the applicants and wrote to the GI registry in January 2024 (Priti David, <a href="https://ruralindiaonline.org/bn/articles/gond-art-stories-of-the-forest-and-the-land">PARI, April 2024</a>).</p>
+      <h3>Mandana, and mixing the two</h3>
+      <p>Mandana is a ritual floor and wall art of Rajasthan and Madhya Pradesh. The <a href="https://www.nios.ac.in/media/documents/244_Folk_art/Folk_Art_Practical_L-8.pdf">NIOS folk art lesson</a> says only women make it, for festivals with Diwali first among them, and for a new house; <a href="https://rooftopapp.com/art-wiki/mandana">Rooftop</a> ties it to the women of the Meena community. Its motifs here come from those pages and from Chantal Jumel's field notes. A design that puts a Mandana border around a Warli centre is fusion, a contemporary design practice and not a traditional form: the two arts come from different communities and regions. Such files say so in their label. No Mandana style adapter has been trained yet, so Mandana designs are painted without one.</p>
+      <h3>Why outputs are labelled</h3>
+      <p>Generated images can pass for hand work. Every export says it is AI-generated and Warli-inspired, so a buyer is not misled about who made it.</p>
+      <h3>Who decides what goes where</h3>
+      <p>The layout engine places every symbol and the palette colours every layer. A language model, when one is used, only turns the brief into a plan; it never draws and never writes a meaning. Diffusion adds the hand-painted line, and a survival check confirms each placed symbol is still there.</p>
+      <h3>Where the meanings come from</h3>
+      <p>Each symbol in the lexicon links to a published source. No Warli artist has checked them yet. The deployment model proposed for this project is a LoRA licensed from Warli artists, with royalties per use; it has not been tested.</p>
+    </div>
+  </section>
+</main>
+
+<main id="study" class="bench study" hidden>
+  <section class="sheet" aria-labelledby="study-h">
+    <h2 id="study-h">Study</h2>
+    <div class="tabs" role="tablist" aria-label="Study tasks">
+      <button role="tab" id="t-pref" aria-controls="p-pref" aria-selected="true">Preference</button>
+      <button role="tab" id="t-anno" aria-controls="p-anno" aria-selected="false" tabindex="-1">Annotation</button>
+      <button role="tab" id="t-designs" aria-controls="p-designs" aria-selected="false" tabindex="-1">Designs</button>
+    </div>
+    <div class="panel" role="tabpanel" id="p-pref" aria-labelledby="t-pref">
+      <p class="lede">Which would you rather download?</p>
+      <div class="plates pick" id="pair"></div>
+      <div id="after" hidden>
+        <div id="pair-card" class="card"></div>
+        <p class="lede">Now that you have read the meaning card for one of them, which would you rather download?</p>
+        <div class="press"><button class="btn-quiet" id="after-left" type="button">Left</button><button class="btn-quiet" id="after-right" type="button">Right</button></div>
+      </div>
+      <p class="status" id="pref-status" role="status" aria-live="polite"></p>
+    </div>
+    <div class="panel" role="tabpanel" id="p-designs" aria-labelledby="t-designs" hidden>
+      <p class="lede">Which would you rather hang on a wall?</p>
+      <div class="plates pick" id="pair2"></div>
+      <p class="status" id="pref2-status" role="status" aria-live="polite"></p>
+    </div>
+    <div class="panel" role="tabpanel" id="p-anno" aria-labelledby="t-anno" hidden>
+      <div class="anno" id="anno"></div>
+      <p class="status" id="anno-status" role="status" aria-live="polite"></p>
+    </div>
+  </section>
+</main>
+<script src="/static/app.js"></script>
+</body>
+</html>

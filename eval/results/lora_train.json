@@ -1,0 +1,10 @@
+{
+ "examples": 45,
+ "epochs": 34,
+ "batch_size": 1,
+ "steps": 1500,
+ "train_minutes": 10.166666666666666,
+ "mixed_precision": "fp16",
+ "loss_mean_first_100": 0.1106985909002833,
+ "loss_mean_last_100": 0.13533112986944615
+}

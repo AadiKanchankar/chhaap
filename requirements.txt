@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+diffusers
+transformers
+accelerate
+peft
+safetensors
+fastapi
+uvicorn
+pillow
+numpy
+scipy
+imagehash
+scikit-learn
+torchmetrics[image]
+potracer
+kagglehub
+pypandoc_binary

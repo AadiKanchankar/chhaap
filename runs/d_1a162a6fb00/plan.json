@@ -1,0 +1,35 @@
+{
+ "product": "frame_a4",
+ "template": "registers",
+ "density": "balanced",
+ "repeat": null,
+ "palette_id": "white_on_geru",
+ "border_style": "triangles",
+ "story_beats": [
+  {
+   "beat": "morning",
+   "symbol_ids": [
+    "sun",
+    "woman_pot",
+    "tree"
+   ]
+  },
+  {
+   "beat": "work",
+   "symbol_ids": [
+    "farmer",
+    "animal",
+    "man"
+   ]
+  },
+  {
+   "beat": "home",
+   "symbol_ids": [
+    "hut",
+    "bird"
+   ]
+  }
+ ],
+ "hero_symbol_id": "hut",
+ "notes": "rules: stories village_day"
+}

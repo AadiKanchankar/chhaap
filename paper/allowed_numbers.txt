@@ -1,0 +1,60 @@
+# Setup constants the paper may quote. First token is the number; the rest says where it comes from.
+512 tile size in pixels (chhaap/compose.py, generate.py)
+6 LCM sampling steps on CPU (chhaap/generate.py DEFAULTS)
+1.0 classifier-free guidance on CPU (generate.py DEFAULTS)
+0.7 ControlNet conditioning scale (generate.py DEFAULTS)
+0.8 Warli LoRA default strength (generate.py DEFAULTS)
+16 samples per condition on CPU (scripts/run_eval.py N)
+0 first evaluation seed (run_eval.py SEEDS)
+15 last evaluation seed; also 15 GB RAM of the test laptop
+100 tuning seed outside the evaluation seeds (docs/CHANGELOG.md)
+101 tuning seed outside the evaluation seeds (docs/CHANGELOG.md)
+5 number of stories (chhaap/compose.py STORIES)
+8 interior lines in SDR (chhaap/metrics.py); also 8 dataset classes; 8 points per flattened Bezier segment
+64 interior lines in the post-hoc SDR variant (run_eval.py e1_posthoc)
+4 SDR band width in pixels (metrics.py); 4 vertical interior lines; prompts in the CLIP filter
+2 2x2 mosaic for SDR (metrics.py)
+3 3x3 repeat preview (export.py)
+6 phash duplicate threshold (scripts/prepare_data.py)
+80 train share of the Warli split, percent (prepare_data.py)
+20 held-out share of the Warli split, percent (prepare_data.py)
+14 figures in the tarpa dance ring (data/lexicon.csv)
+300 print resolution in DPI (chhaap/export.py)
+4500 print file width (export.py)
+5400 print file height (export.py)
+1290 wallpaper width (export.py)
+2796 wallpaper height (export.py)
+1080 wallpaper width (export.py)
+2400 wallpaper height (export.py)
+64 latent grid side for 512 px (SD1.5 VAE factor 8)
+768 CLIP ViT-L/14 text embedding width in SD1.5
+77 CLIP text context length in SD1.5
+1500 planned LoRA training steps (train/train_lora_colab.ipynb)
+500 LoRA checkpoint interval (train_lora_colab.ipynb)
+1000 LoRA checkpoint (train_lora_colab.ipynb)
+1.2 maximum LoRA strength in the UI and E6
+0.4 E6 LoRA strength
+1.25 upper bound of the SDR band counted post hoc (run_eval.py e1_posthoc)
+155 part of the CPU model name, Core Ultra 7 155H
+7 part of the CPU model name, Core Ultra 7 155H
+25 lexicon rows (data/lexicon.csv); also 25 GPU steps default
+1.5 Stable Diffusion version
+11 ControlNet v1.1 (lllyasviel/control_v11p_sd15_scribble)
+1.1 ControlNet version
+32 CLIP ViT-B/32 patch size
+360 360-degree images, from the Tiled Diffusion abstract (madar2025tiled)
+98 pass threshold of the vectorize self-check, percent (chhaap/vectorize.py)
+10 base of the LoRA learning rate 1e-4 (train/train_lora_colab.ipynb)
+768 v2 stylize size limit, long side in pixels (chhaap/studio.py STYLIZE_MAX); also the CLIP text width
+0.15 ControlNet increase per survival rerun (chhaap/studio.py CN_STEP)
+0.5 survival threshold on IoU (chhaap/studio.py KEEP)
+0.07 sparse ink-coverage target (chhaap/layout.py DENSITY)
+0.12 balanced ink-coverage target (chhaap/layout.py DENSITY)
+0.17 dense ink-coverage target (chhaap/layout.py DENSITY)
+2480 A4 width at 300 DPI (chhaap/products.py)
+3508 A4 height / A3 width at 300 DPI (chhaap/products.py)
+4961 A3 height at 300 DPI (chhaap/products.py)
+3626 A5 diary wrap width (chhaap/products.py)
+1024 repeat tile side (chhaap/products.py)
+1000 first E7 diffusion seed (scripts/run_eval_v2.py)
+20 E10 briefs (eval/briefs.json)

@@ -1,0 +1,240 @@
+{
+ "id": "d_ex_05",
+ "mode": "vector",
+ "seed": 45,
+ "textured": true,
+ "label": "AI-generated, Warli-inspired. Not a GI-certified Warli painting.",
+ "packs": [
+  "warli"
+ ],
+ "settings": {},
+ "plan": {
+  "product": "tee",
+  "template": "medallion",
+  "density": "balanced",
+  "repeat": null,
+  "palette_id": "indigo_coral_cream",
+  "border_style": null,
+  "story_beats": [
+   {
+    "beat": "procession",
+    "symbol_ids": [
+     "drummer",
+     "tarpa_player",
+     "horse"
+    ]
+   },
+   {
+    "beat": "the marriage square",
+    "symbol_ids": [
+     "lagna_chauk",
+     "pachsera_deva"
+    ]
+   },
+   {
+    "beat": "celebration",
+    "symbol_ids": [
+     "woman",
+     "man",
+     "tree",
+     "bird"
+    ]
+   }
+  ],
+  "hero_symbol_id": "lagna_chauk",
+  "notes": "rules: stories wedding"
+ },
+ "parts": [
+  {
+   "name": "print",
+   "W": 4500,
+   "H": 5400,
+   "template": "medallion",
+   "repeat": null,
+   "border": null,
+   "stylize": true,
+   "seed": 450
+  }
+ ],
+ "previews": [
+  "preview_print.png"
+ ],
+ "elements": [
+  {
+   "id": 0,
+   "sid": "lagna_chauk",
+   "role": "hero",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 1,
+   "sid": "drummer",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 2,
+   "sid": "tarpa_player",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 3,
+   "sid": "horse",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 4,
+   "sid": "pachsera_deva",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 5,
+   "sid": "woman",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 6,
+   "sid": "man",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 7,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 8,
+   "sid": "bird",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 9,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 15,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 19,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 21,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 24,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 26,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 27,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 29,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 30,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 34,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 38,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  },
+  {
+   "id": 43,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "print"
+  }
+ ],
+ "timing": {
+  "layout_print": 0.009442441005376168,
+  "render_preview": 1.0795792440039804,
+  "total": 1.089071957001579
+ },
+ "coverage": {
+  "print": 0.12531565656565657
+ }
+}

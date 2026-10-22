@@ -1,0 +1,56 @@
+{
+ "brief": "A3 frame for my parents' anniversary. Wedding and harvest, maroon and mustard, busy, traditional border.",
+ "planner": {
+  "brief": "A3 frame for my parents' anniversary. Wedding and harvest, maroon and mustard, busy, traditional border.",
+  "plan": {
+   "product": "frame_a3",
+   "template": "medallion",
+   "density": "dense",
+   "repeat": null,
+   "palette_id": "white_on_maroon",
+   "border_style": "triangles",
+   "story_beats": [
+    {
+     "beat": "the marriage square",
+     "symbol_ids": [
+      "lagna_chauk",
+      "pachsera_deva"
+     ]
+    },
+    {
+     "beat": "reaping",
+     "symbol_ids": [
+      "kansari",
+      "tree",
+      "ladder"
+     ]
+    },
+    {
+     "beat": "procession",
+     "symbol_ids": [
+      "drummer",
+      "tarpa_player",
+      "horse"
+     ]
+    },
+    {
+     "beat": "celebration",
+     "symbol_ids": [
+      "woman",
+      "man",
+      "tree",
+      "bird"
+     ]
+    }
+   ],
+   "hero_symbol_id": "lagna_chauk",
+   "notes": "rules: stories wedding, harvest"
+  },
+  "backend": "rules",
+  "requested": "rules",
+  "seconds": 0.0010017429995059501,
+  "attempts": 0,
+  "usage": {},
+  "fallback": false
+ }
+}

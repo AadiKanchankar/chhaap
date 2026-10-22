@@ -1,0 +1,55 @@
+{
+ "note": "post hoc, defined after inspecting E7",
+ "n": 545,
+ "quartile_edges_ink_px": [
+  294.0,
+  330.0,
+  408.0
+ ],
+ "survival_by_size_quartile": [
+  {
+   "quartile": 1,
+   "n": 135,
+   "survival_first_pass": 0.6074074074074074
+  },
+  {
+   "quartile": 2,
+   "n": 137,
+   "survival_first_pass": 0.48905109489051096
+  },
+  {
+   "quartile": 3,
+   "n": 136,
+   "survival_first_pass": 0.41911764705882354
+  },
+  {
+   "quartile": 4,
+   "n": 137,
+   "survival_first_pass": 0.8321167883211679
+  }
+ ],
+ "spearman_ink_px_vs_survival": {
+  "rho": 0.13695510100250252,
+  "p_value": 0.0013505196074502445
+ },
+ "median_ink_px": {
+  "survived": 342.0,
+  "lost": 323.0
+ },
+ "mann_whitney": {
+  "U": 41781.5,
+  "p_value": 0.001402975659843561
+ },
+ "rotated": {
+  "n": 365,
+  "survival_first_pass": 0.4684931506849315
+ },
+ "upright": {
+  "n": 180,
+  "survival_first_pass": 0.8277777777777777
+ },
+ "fisher_rotated_vs_upright": {
+  "odds_ratio": 0.18338753200027677,
+  "p_value": 1.5056148774969948e-16
+ }
+}

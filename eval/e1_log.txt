@@ -1,0 +1,13 @@
+/home/aadi/Aadi/Projects/GEN-AI/.venv/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py:206: UserWarning: The `local_dir_use_symlinks` argument is deprecated and ignored in `hf_hub_download`. Downloading to a local directory does not use symlinks anymore.
+  warnings.warn(
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/aadi/Aadi/Projects/GEN-AI/.venv/lib/python3.12/site-packages/diffusers/utils/deprecation_utils.py:23: FutureWarning: `torch_dtype` is deprecated and will be removed in version 1.0.0. Please use `dtype` instead.
+  deprecate("torch_dtype", "1.0.0", _TORCH_DTYPE_DEPRECATION_MESSAGE)
+Loading pipeline components...:   0%|          | 0/6 [00:00<?, ?it/s]Loading pipeline components...:  17%|█▋        | 1/6 [00:00<00:00,  9.72it/s]Loading pipeline components...:  33%|███▎      | 2/6 [00:39<01:33, 23.34s/it]
+Loading weights:   0%|          | 0/196 [00:00<?, ?it/s][ALoading weights: 100%|██████████| 196/196 [00:00<00:00, 2264.50it/s]
+Loading pipeline components...:  83%|████████▎ | 5/6 [00:40<00:06,  6.71s/it]Loading pipeline components...: 100%|██████████| 6/6 [00:40<00:00,  6.67s/it]
+No LoRA keys associated to CLIPTextModel found with the prefix='text_encoder'. This is safe to ignore if LoRA state dict didn't originally have any CLIPTextModel related params. You can also try specifying `prefix=None` to resolve the warning. Otherwise, open an issue if you think it's unexpected: https://github.com/huggingface/diffusers/issues/new
+You have disabled the safety checker for <class 'diffusers.pipelines.stable_diffusion.pipeline_stable_diffusion.StableDiffusionPipeline'> by passing `safety_checker=None`. Ensure that you abide to the conditions of the Stable Diffusion license and do not expose unfiltered results in services or applications open to the public. Both the diffusers team and Hugging Face strongly recommend to keep the safety filter enabled in all public facing circumstances, disabling it only for use-cases that involve analyzing network behavior or auditing its results. For more information, please have a look at https://github.com/huggingface/diffusers/pull/254 .
+a {'mean': 1.0076465734530353, 'std': 0.7555114663159338, 'n': 16} {'mean': 26.991722482120167, 'std': 0.7993454758730517, 'n': 16}
+b {'mean': 1.0195000267097436, 'std': 0.183986721806575, 'n': 16} {'mean': 28.389443923124418, 'std': 1.1501438730943139, 'n': 16}
+e {'mean': 1.0441111005666004, 'std': 0.43510663406192873, 'n': 16} {'mean': 35.51909609419272, 'std': 0.3839289826224708, 'n': 16}

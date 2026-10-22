@@ -1,0 +1,48 @@
+{
+ "probe": {
+  "test_accuracy": 0.8055555555555556,
+  "n_train": 719,
+  "n_test": 180,
+  "classes": [
+   "gond",
+   "kalighat",
+   "kangra",
+   "kerala mural",
+   "madhubani",
+   "mandana",
+   "pichwai",
+   "warli"
+  ]
+ },
+ "heldout_n": 11,
+ "conditions": {
+  "a": {
+   "kid_mean": 0.06554009765386581,
+   "kid_std": 0.008671192452311516,
+   "warli_prob": {
+    "mean": 0.1689441679045558,
+    "std": 0.045933795116924026,
+    "n": 16
+   },
+   "n": 16
+  },
+  "c": {
+   "status": "not run: E1 condition not generated (needs the trained LoRA)"
+  },
+  "e": {
+   "kid_mean": 0.14685972034931183,
+   "kid_std": 0.010787954553961754,
+   "warli_prob": {
+    "mean": 0.3379494734108448,
+    "std": 0.05578477981145873,
+    "n": 16
+   },
+   "n": 16
+  }
+ },
+ "reference_warli_prob_heldout": {
+  "mean": 0.30106346580115234,
+  "std": 0.0682326438567649,
+  "n": 11
+ }
+}

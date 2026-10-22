@@ -1,0 +1,38 @@
+{
+ "note": "same 16 runs as E7; vector-only survival is 1 by construction (the layout is the output)",
+ "survival_main": {
+  "vector_only": 1.0,
+  "stylized": 0.5871559633027523,
+  "stylized_repaired": 1.0,
+  "n": 545
+ },
+ "survival_all": {
+  "vector_only": 1.0,
+  "stylized": 0.6654929577464789,
+  "stylized_repaired": 0.9401408450704225,
+  "n": 852
+ },
+ "seconds": {
+  "vector_only": {
+   "mean": 0.15233232850005152,
+   "std": 0.07534055033997651,
+   "n": 16
+  },
+  "stylized": {
+   "mean": 67.72805740812396,
+   "std": 40.39831711699309,
+   "n": 16
+  },
+  "stylized_repaired": {
+   "mean": 141.16425258799904,
+   "std": 67.53544608132788,
+   "n": 16
+  }
+ },
+ "repair_paths_main": {
+  "vector": 186,
+  "rerun": 42,
+  "as_generated": 317
+ },
+ "preference": "see e9_preference in summarize (study pages)"
+}

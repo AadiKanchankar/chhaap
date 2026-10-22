@@ -1,0 +1,247 @@
+{
+ "id": "d_ex_02",
+ "mode": "vector",
+ "seed": 42,
+ "textured": true,
+ "label": "AI-generated, Warli-inspired. Not a GI-certified Warli painting.",
+ "packs": [
+  "warli"
+ ],
+ "settings": {},
+ "plan": {
+  "product": "diary",
+  "template": "registers",
+  "density": "sparse",
+  "repeat": null,
+  "palette_id": "mustard_rust_cream",
+  "border_style": "triangles",
+  "story_beats": [
+   {
+    "beat": "morning",
+    "symbol_ids": [
+     "sun",
+     "woman_pot",
+     "tree"
+    ]
+   },
+   {
+    "beat": "work",
+    "symbol_ids": [
+     "farmer",
+     "animal",
+     "man"
+    ]
+   },
+   {
+    "beat": "home",
+    "symbol_ids": [
+     "hut",
+     "bird"
+    ]
+   }
+  ],
+  "hero_symbol_id": "hut",
+  "notes": "rules: stories village_day"
+ },
+ "parts": [
+  {
+   "name": "front",
+   "W": 1748,
+   "H": 2480,
+   "template": "registers",
+   "repeat": null,
+   "border": "triangles",
+   "stylize": true,
+   "seed": 420
+  },
+  {
+   "name": "back",
+   "W": 1024,
+   "H": 1024,
+   "template": "all_over_buti",
+   "repeat": "straight",
+   "border": null,
+   "stylize": true,
+   "seed": 421
+  },
+  {
+   "name": "spine",
+   "W": 2480,
+   "H": 130,
+   "template": "strip",
+   "repeat": null,
+   "border": "triangles",
+   "stylize": false,
+   "seed": 422
+  }
+ ],
+ "previews": [
+  "preview_wrap.png"
+ ],
+ "elements": [
+  {
+   "id": 164,
+   "sid": "sun",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "front"
+  },
+  {
+   "id": 165,
+   "sid": "woman_pot",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "front"
+  },
+  {
+   "id": 166,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "front"
+  },
+  {
+   "id": 239,
+   "sid": "farmer",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "front"
+  },
+  {
+   "id": 240,
+   "sid": "animal",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "front"
+  },
+  {
+   "id": 241,
+   "sid": "man",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "front"
+  },
+  {
+   "id": 314,
+   "sid": "hut",
+   "role": "hero",
+   "survived": true,
+   "path": "vector",
+   "part": "front"
+  },
+  {
+   "id": 315,
+   "sid": "bird",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "front"
+  },
+  {
+   "id": 316,
+   "sid": "bird",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "front"
+  },
+  {
+   "id": 0,
+   "sid": "sun",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "back"
+  },
+  {
+   "id": 1,
+   "sid": "woman_pot",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "back"
+  },
+  {
+   "id": 2,
+   "sid": "tree",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "back"
+  },
+  {
+   "id": 3,
+   "sid": "farmer",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "back"
+  },
+  {
+   "id": 4,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "back"
+  },
+  {
+   "id": 9,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "back"
+  },
+  {
+   "id": 12,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "back"
+  },
+  {
+   "id": 13,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "back"
+  },
+  {
+   "id": 20,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "back"
+  },
+  {
+   "id": 23,
+   "sid": "bird",
+   "role": "filler",
+   "survived": true,
+   "path": "vector",
+   "part": "back"
+  }
+ ],
+ "timing": {
+  "layout_front": 0.005277902993839234,
+  "layout_back": 0.01912615300534526,
+  "layout_spine": 0.0008213490000343882,
+  "render_preview": 1.103979370003799,
+  "total": 1.1292783430035342
+ },
+ "coverage": {
+  "front": 0.10834568041942101,
+  "back": 0.0816650390625,
+  "spine": 0.4532688406927758
+ }
+}

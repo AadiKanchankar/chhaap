@@ -1,0 +1,952 @@
+file,class,source_url,license,w,h,kept,drop_reason,split
+data/raw/gond painting/gond0.jpeg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",471,625,yes,,probe
+data/raw/gond painting/gond1.jpeg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,900,yes,,probe
+data/raw/gond painting/gond10.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1222,1500,yes,,probe
+data/raw/gond painting/gond100.jpeg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",674,933,yes,,probe
+data/raw/gond painting/gond11.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1008,1200,yes,,probe
+data/raw/gond painting/gond12.png,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,600,yes,,probe
+data/raw/gond painting/gond13.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",523,720,yes,,probe
+data/raw/gond painting/gond14.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/gond painting/gond15.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,444,yes,,probe
+data/raw/gond painting/gond16.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",650,650,yes,,probe
+data/raw/gond painting/gond17.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/gond painting/gond18.jpeg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",474,632,yes,,probe
+data/raw/gond painting/gond19.png,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1445,1445,yes,,probe
+data/raw/gond painting/gond2.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",514,708,yes,,probe
+data/raw/gond painting/gond20.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/gond painting/gond21.jpeg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",805,1000,yes,,probe
+data/raw/gond painting/gond22.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2000,yes,,probe
+data/raw/gond painting/gond23.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,probe
+data/raw/gond painting/gond24.webp,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,820,yes,,probe
+data/raw/gond painting/gond25.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",409,500,yes,,probe
+data/raw/gond painting/gond26.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",736,1045,yes,,probe
+data/raw/gond painting/gond27.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",439,500,yes,,probe
+data/raw/gond painting/gond28.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1200,yes,,probe
+data/raw/gond painting/gond29.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/gond painting/gond3.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",960,540,yes,,probe
+data/raw/gond painting/gond30.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1338,1738,yes,,probe
+data/raw/gond painting/gond31.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1200,yes,,probe
+data/raw/gond painting/gond32.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1200,yes,,probe
+data/raw/gond painting/gond33.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/gond painting/gond34.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1006,1006,yes,,probe
+data/raw/gond painting/gond35.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",899,565,yes,,probe
+data/raw/gond painting/gond36.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",899,565,yes,,probe
+data/raw/gond painting/gond37.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1110,yes,,probe
+data/raw/gond painting/gond38.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",549,309,yes,,probe
+data/raw/gond painting/gond39.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,700,yes,,probe
+data/raw/gond painting/gond4.jpeg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",692,1000,yes,,probe
+data/raw/gond painting/gond40.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",711,1024,yes,,probe
+data/raw/gond painting/gond41.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,1379,yes,,probe
+data/raw/gond painting/gond42.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2923,3654,yes,,probe
+data/raw/gond painting/gond43.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/gond painting/gond44.png,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",888,1161,yes,,probe
+data/raw/gond painting/gond45.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1006,1006,yes,,probe
+data/raw/gond painting/gond46.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",896,1280,yes,,probe
+data/raw/gond painting/gond47.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1975,2560,yes,,probe
+data/raw/gond painting/gond48.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1823,2560,yes,,probe
+data/raw/gond painting/gond49.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/gond painting/gond5.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1500,yes,,probe
+data/raw/gond painting/gond50.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,760,yes,,probe
+data/raw/gond painting/gond51.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",512,512,yes,,probe
+data/raw/gond painting/gond52.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",512,512,yes,,probe
+data/raw/gond painting/gond53.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",466,700,yes,,probe
+data/raw/gond painting/gond54.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",845,435,yes,,probe
+data/raw/gond painting/gond55.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",845,435,yes,,probe
+data/raw/gond painting/gond56.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",845,435,yes,,probe
+data/raw/gond painting/gond57.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",845,435,yes,,probe
+data/raw/gond painting/gond58.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,750,yes,,probe
+data/raw/gond painting/gond59.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1200,yes,,probe
+data/raw/gond painting/gond6.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",898,1500,yes,,probe
+data/raw/gond painting/gond60.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,600,yes,,probe
+data/raw/gond painting/gond61.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1260,yes,,probe
+data/raw/gond painting/gond62.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1260,yes,,probe
+data/raw/gond painting/gond63.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/gond painting/gond64.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",660,400,yes,,probe
+data/raw/gond painting/gond65.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",960,1280,yes,,probe
+data/raw/gond painting/gond66.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",964,1366,yes,,probe
+data/raw/gond painting/gond67.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1039,1234,yes,,probe
+data/raw/gond painting/gond68.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,900,yes,,probe
+data/raw/gond painting/gond69.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",383,500,yes,,probe
+data/raw/gond painting/gond7.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1172,1500,yes,,probe
+data/raw/gond painting/gond70.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1892,2953,yes,,probe
+data/raw/gond painting/gond71.png,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,600,yes,,probe
+data/raw/gond painting/gond74.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",811,1024,yes,,probe
+data/raw/gond painting/gond75.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",659,917,yes,,probe
+data/raw/gond painting/gond76.jpeg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",955,1363,yes,,probe
+data/raw/gond painting/gond77.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1065,1080,yes,,probe
+data/raw/gond painting/gond78.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",570,812,yes,,probe
+data/raw/gond painting/gond79.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,684,yes,,probe
+data/raw/gond painting/gond8.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,845,yes,,probe
+data/raw/gond painting/gond80.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1124,810,yes,,probe
+data/raw/gond painting/gond81.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1676,2350,yes,,probe
+data/raw/gond painting/gond82.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1675,2344,yes,,probe
+data/raw/gond painting/gond83.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",463,650,yes,,probe
+data/raw/gond painting/gond84.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",580,780,yes,,probe
+data/raw/gond painting/gond85.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2329,2560,yes,,probe
+data/raw/gond painting/gond86.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1920,1440,yes,,probe
+data/raw/gond painting/gond88.png,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",812,1141,yes,,probe
+data/raw/gond painting/gond89.jpeg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2000,yes,,probe
+data/raw/gond painting/gond9.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/gond painting/gond90.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,424,yes,,probe
+data/raw/gond painting/gond91.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",899,565,yes,,probe
+data/raw/gond painting/gond92.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1067,yes,,probe
+data/raw/gond painting/gond93.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1067,yes,,probe
+data/raw/gond painting/gond94.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1067,yes,,probe
+data/raw/gond painting/gond95.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,667,yes,,probe
+data/raw/gond painting/gond96.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1154,yes,,probe
+data/raw/gond painting/gond97.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",899,565,yes,,probe
+data/raw/gond painting/gond98.jpg,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/gond painting/gond99.png,gond,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",750,1030,yes,,probe
+data/raw/kalighat painting/kalighat0.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,616,yes,,probe
+data/raw/kalighat painting/kalighat1.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",266,432,yes,,probe
+data/raw/kalighat painting/kalighat10.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",520,520,yes,,probe
+data/raw/kalighat painting/kalighat100.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",686,560,yes,,probe
+data/raw/kalighat painting/kalighat101.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,347,yes,,probe
+data/raw/kalighat painting/kalighat102.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,490,yes,,probe
+data/raw/kalighat painting/kalighat103.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",400,680,yes,,probe
+data/raw/kalighat painting/kalighat104.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1067,yes,,probe
+data/raw/kalighat painting/kalighat105.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",647,668,yes,,probe
+data/raw/kalighat painting/kalighat106.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,probe
+data/raw/kalighat painting/kalighat107.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",400,533,yes,,probe
+data/raw/kalighat painting/kalighat108.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",945,945,yes,,probe
+data/raw/kalighat painting/kalighat109.webp,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,819,yes,,probe
+data/raw/kalighat painting/kalighat11.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",650,650,yes,,probe
+data/raw/kalighat painting/kalighat110.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,probe
+data/raw/kalighat painting/kalighat111.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",936,1280,yes,,probe
+data/raw/kalighat painting/kalighat112.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",610,954,yes,,probe
+data/raw/kalighat painting/kalighat113.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,600,yes,,probe
+data/raw/kalighat painting/kalighat114.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",703,1103,yes,,probe
+data/raw/kalighat painting/kalighat115.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,2000,yes,,probe
+data/raw/kalighat painting/kalighat116.webp,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",365,600,yes,,probe
+data/raw/kalighat painting/kalighat117.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",818,1310,yes,,probe
+data/raw/kalighat painting/kalighat118.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",686,1069,yes,,probe
+data/raw/kalighat painting/kalighat119.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",393,700,yes,,probe
+data/raw/kalighat painting/kalighat12.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",533,533,yes,,probe
+data/raw/kalighat painting/kalighat120.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",320,236,yes,,probe
+data/raw/kalighat painting/kalighat121.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,970,yes,,probe
+data/raw/kalighat painting/kalighat122.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",844,1390,yes,,probe
+data/raw/kalighat painting/kalighat123.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",960,1200,yes,,probe
+data/raw/kalighat painting/kalighat124.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",939,1408,yes,,probe
+data/raw/kalighat painting/kalighat125.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",750,1000,yes,,probe
+data/raw/kalighat painting/kalighat126.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",270,321,yes,,probe
+data/raw/kalighat painting/kalighat127.webp,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,675,yes,,probe
+data/raw/kalighat painting/kalighat128.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",304,480,yes,,probe
+data/raw/kalighat painting/kalighat129.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",810,810,yes,,probe
+data/raw/kalighat painting/kalighat13.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",720,862,yes,,probe
+data/raw/kalighat painting/kalighat130.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",927,1280,yes,,probe
+data/raw/kalighat painting/kalighat131.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1920,1080,yes,,probe
+data/raw/kalighat painting/kalighat132.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",570,427,yes,,probe
+data/raw/kalighat painting/kalighat133.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",570,456,yes,,probe
+data/raw/kalighat painting/kalighat134.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1600,1331,yes,,probe
+data/raw/kalighat painting/kalighat135.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",246,300,yes,,probe
+data/raw/kalighat painting/kalighat136.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",707,522,yes,,probe
+data/raw/kalighat painting/kalighat137.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,600,yes,,probe
+data/raw/kalighat painting/kalighat138.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",680,757,yes,,probe
+data/raw/kalighat painting/kalighat139.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",487,742,yes,,probe
+data/raw/kalighat painting/kalighat14.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",850,605,yes,,probe
+data/raw/kalighat painting/kalighat140.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2131,3400,yes,,probe
+data/raw/kalighat painting/kalighat141.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2281,3400,yes,,probe
+data/raw/kalighat painting/kalighat142.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2129,3400,yes,,probe
+data/raw/kalighat painting/kalighat143.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2987,3400,yes,,probe
+data/raw/kalighat painting/kalighat144.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",425,500,yes,,probe
+data/raw/kalighat painting/kalighat145.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",701,1035,yes,,probe
+data/raw/kalighat painting/kalighat146.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,900,yes,,probe
+data/raw/kalighat painting/kalighat147.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",611,900,yes,,probe
+data/raw/kalighat painting/kalighat148.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",592,900,yes,,probe
+data/raw/kalighat painting/kalighat149.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",612,900,yes,,probe
+data/raw/kalighat painting/kalighat15.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",718,1000,yes,,probe
+data/raw/kalighat painting/kalighat150.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1007,1390,yes,,probe
+data/raw/kalighat painting/kalighat151.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",727,1024,yes,,probe
+data/raw/kalighat painting/kalighat152.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",660,416,yes,,probe
+data/raw/kalighat painting/kalighat153.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",466,699,yes,,probe
+data/raw/kalighat painting/kalighat154.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",466,700,yes,,probe
+data/raw/kalighat painting/kalighat155.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",466,699,yes,,probe
+data/raw/kalighat painting/kalighat156.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",466,699,yes,,probe
+data/raw/kalighat painting/kalighat157.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1134,1600,yes,,probe
+data/raw/kalighat painting/kalighat158.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",690,953,yes,,probe
+data/raw/kalighat painting/kalighat159.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1100,600,yes,,probe
+data/raw/kalighat painting/kalighat16.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1440,2210,yes,,probe
+data/raw/kalighat painting/kalighat160.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,550,yes,,probe
+data/raw/kalighat painting/kalighat161.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",799,418,yes,,probe
+data/raw/kalighat painting/kalighat162.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",406,406,yes,,probe
+data/raw/kalighat painting/kalighat163.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",406,406,yes,,probe
+data/raw/kalighat painting/kalighat164.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",570,570,yes,,probe
+data/raw/kalighat painting/kalighat165.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",854,1390,yes,,probe
+data/raw/kalighat painting/kalighat166.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",673,1100,yes,,probe
+data/raw/kalighat painting/kalighat167.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1019,1280,yes,,probe
+data/raw/kalighat painting/kalighat168.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",782,1253,yes,,probe
+data/raw/kalighat painting/kalighat169.webp,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,550,yes,,probe
+data/raw/kalighat painting/kalighat17.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1440,2252,yes,,probe
+data/raw/kalighat painting/kalighat170.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,600,yes,,probe
+data/raw/kalighat painting/kalighat171.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",293,470,yes,,probe
+data/raw/kalighat painting/kalighat172.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",668,1032,yes,,probe
+data/raw/kalighat painting/kalighat173.webp,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,550,yes,,probe
+data/raw/kalighat painting/kalighat174.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1060,1354,yes,,probe
+data/raw/kalighat painting/kalighat175.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1600,900,yes,,probe
+data/raw/kalighat painting/kalighat176.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",708,1024,yes,,probe
+data/raw/kalighat painting/kalighat177.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",166,250,yes,,probe
+data/raw/kalighat painting/kalighat178.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",828,1108,yes,,probe
+data/raw/kalighat painting/kalighat179.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",828,600,yes,,probe
+data/raw/kalighat painting/kalighat18.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1440,2091,yes,,probe
+data/raw/kalighat painting/kalighat180.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,350,yes,,probe
+data/raw/kalighat painting/kalighat181.webp,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",759,1646,yes,,probe
+data/raw/kalighat painting/kalighat182.webp,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",759,720,yes,,probe
+data/raw/kalighat painting/kalighat183.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",675,1007,yes,,probe
+data/raw/kalighat painting/kalighat184.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",713,1050,yes,,probe
+data/raw/kalighat painting/kalighat185.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",584,900,yes,,probe
+data/raw/kalighat painting/kalighat186.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",575,900,yes,,probe
+data/raw/kalighat painting/kalighat187.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",977,1280,yes,,probe
+data/raw/kalighat painting/kalighat188.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,340,yes,,probe
+data/raw/kalighat painting/kalighat189.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",200,275,yes,,probe
+data/raw/kalighat painting/kalighat19.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1260,yes,,probe
+data/raw/kalighat painting/kalighat190.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1325,yes,,probe
+data/raw/kalighat painting/kalighat191.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1325,yes,,probe
+data/raw/kalighat painting/kalighat192.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",3201,1024,yes,,probe
+data/raw/kalighat painting/kalighat193.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",906,1200,yes,,probe
+data/raw/kalighat painting/kalighat194.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1325,yes,,probe
+data/raw/kalighat painting/kalighat195.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1325,yes,,probe
+data/raw/kalighat painting/kalighat196.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1325,yes,,probe
+data/raw/kalighat painting/kalighat197.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1325,yes,,probe
+data/raw/kalighat painting/kalighat198.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,812,yes,,probe
+data/raw/kalighat painting/kalighat199.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",828,1024,yes,,probe
+data/raw/kalighat painting/kalighat2.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",751,1280,yes,,probe
+data/raw/kalighat painting/kalighat20.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1260,yes,,probe
+data/raw/kalighat painting/kalighat200.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,1022,yes,,probe
+data/raw/kalighat painting/kalighat201.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",296,466,yes,,probe
+data/raw/kalighat painting/kalighat202.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1048,yes,,probe
+data/raw/kalighat painting/kalighat203.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1140,1493,yes,,probe
+data/raw/kalighat painting/kalighat204.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",377,499,yes,,probe
+data/raw/kalighat painting/kalighat205.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1325,yes,,probe
+data/raw/kalighat painting/kalighat206.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",719,1143,yes,,probe
+data/raw/kalighat painting/kalighat207.webp,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",367,600,yes,,probe
+data/raw/kalighat painting/kalighat208.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",935,1400,yes,,probe
+data/raw/kalighat painting/kalighat209.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1400,1057,yes,,probe
+data/raw/kalighat painting/kalighat21.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,650,yes,,probe
+data/raw/kalighat painting/kalighat210.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1289,yes,,probe
+data/raw/kalighat painting/kalighat211.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",343,506,yes,,probe
+data/raw/kalighat painting/kalighat212.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",343,503,yes,,probe
+data/raw/kalighat painting/kalighat213.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",343,532,yes,,probe
+data/raw/kalighat painting/kalighat214.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",343,538,yes,,probe
+data/raw/kalighat painting/kalighat215.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,720,yes,,probe
+data/raw/kalighat painting/kalighat216.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/kalighat painting/kalighat217.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",320,324,yes,,probe
+data/raw/kalighat painting/kalighat218.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,914,yes,,probe
+data/raw/kalighat painting/kalighat219.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",960,1280,yes,,probe
+data/raw/kalighat painting/kalighat22.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1920,1080,yes,,probe
+data/raw/kalighat painting/kalighat220.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,probe
+data/raw/kalighat painting/kalighat222.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",841,1199,yes,,probe
+data/raw/kalighat painting/kalighat223.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",504,734,yes,,probe
+data/raw/kalighat painting/kalighat224.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",900,1280,yes,,probe
+data/raw/kalighat painting/kalighat226.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1408,516,yes,,probe
+data/raw/kalighat painting/kalighat227.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",316,410,yes,,probe
+data/raw/kalighat painting/kalighat228.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",400,620,yes,,probe
+data/raw/kalighat painting/kalighat23.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,600,yes,,probe
+data/raw/kalighat painting/kalighat230.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",360,500,yes,,probe
+data/raw/kalighat painting/kalighat231.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",379,500,yes,,probe
+data/raw/kalighat painting/kalighat232.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",477,800,yes,,probe
+data/raw/kalighat painting/kalighat233.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1600,yes,,probe
+data/raw/kalighat painting/kalighat234.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1600,yes,,probe
+data/raw/kalighat painting/kalighat235.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1600,yes,,probe
+data/raw/kalighat painting/kalighat236.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",520,1280,yes,,probe
+data/raw/kalighat painting/kalighat237.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,667,yes,,probe
+data/raw/kalighat painting/kalighat238.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,480,yes,,probe
+data/raw/kalighat painting/kalighat239.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",375,612,yes,,probe
+data/raw/kalighat painting/kalighat24.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,600,yes,,probe
+data/raw/kalighat painting/kalighat240.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",316,612,yes,,probe
+data/raw/kalighat painting/kalighat241.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1600,yes,,probe
+data/raw/kalighat painting/kalighat242.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1600,yes,,probe
+data/raw/kalighat painting/kalighat243.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1600,yes,,probe
+data/raw/kalighat painting/kalighat244.webp,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",280,420,yes,,probe
+data/raw/kalighat painting/kalighat245.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",705,1024,yes,,probe
+data/raw/kalighat painting/kalighat246.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",769,1200,yes,,probe
+data/raw/kalighat painting/kalighat247.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",897,768,yes,,probe
+data/raw/kalighat painting/kalighat25.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",498,280,yes,,probe
+data/raw/kalighat painting/kalighat26.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1400,1400,yes,,probe
+data/raw/kalighat painting/kalighat27.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",820,1149,yes,,probe
+data/raw/kalighat painting/kalighat28.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",520,520,yes,,probe
+data/raw/kalighat painting/kalighat29.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2416,3200,yes,,probe
+data/raw/kalighat painting/kalighat3.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",783,1280,yes,,probe
+data/raw/kalighat painting/kalighat30.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",515,600,yes,,probe
+data/raw/kalighat painting/kalighat31.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",900,1200,yes,,probe
+data/raw/kalighat painting/kalighat32.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",480,480,yes,,probe
+data/raw/kalighat painting/kalighat33.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1400,788,yes,,probe
+data/raw/kalighat painting/kalighat34.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,650,yes,,probe
+data/raw/kalighat painting/kalighat35.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",436,640,yes,,probe
+data/raw/kalighat painting/kalighat36.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",377,640,yes,,probe
+data/raw/kalighat painting/kalighat37.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1040,1300,yes,,probe
+data/raw/kalighat painting/kalighat38.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",533,533,yes,,probe
+data/raw/kalighat painting/kalighat39.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",450,450,yes,,probe
+data/raw/kalighat painting/kalighat4.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,600,yes,,probe
+data/raw/kalighat painting/kalighat40.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",243,351,yes,,probe
+data/raw/kalighat painting/kalighat41.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",266,430,yes,,probe
+data/raw/kalighat painting/kalighat42.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",590,1024,yes,,probe
+data/raw/kalighat painting/kalighat43.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",270,419,yes,,probe
+data/raw/kalighat painting/kalighat44.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1445,1445,yes,,probe
+data/raw/kalighat painting/kalighat45.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1946,1946,yes,,probe
+data/raw/kalighat painting/kalighat46.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,700,yes,,probe
+data/raw/kalighat painting/kalighat47.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",548,786,yes,,probe
+data/raw/kalighat painting/kalighat48.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",480,720,yes,,probe
+data/raw/kalighat painting/kalighat49.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1262,1600,yes,,probe
+data/raw/kalighat painting/kalighat5.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",236,198,yes,,probe
+data/raw/kalighat painting/kalighat50.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",480,720,yes,,probe
+data/raw/kalighat painting/kalighat51.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",300,450,yes,,probe
+data/raw/kalighat painting/kalighat53.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",413,640,yes,,probe
+data/raw/kalighat painting/kalighat54.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",909,1277,yes,,probe
+data/raw/kalighat painting/kalighat55.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",900,1136,yes,,probe
+data/raw/kalighat painting/kalighat56.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",885,1247,yes,,probe
+data/raw/kalighat painting/kalighat57.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",873,1187,yes,,probe
+data/raw/kalighat painting/kalighat58.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",772,1000,yes,,probe
+data/raw/kalighat painting/kalighat59.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,700,yes,,probe
+data/raw/kalighat painting/kalighat6.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1000,yes,,probe
+data/raw/kalighat painting/kalighat60.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",900,1073,yes,,probe
+data/raw/kalighat painting/kalighat61.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,1024,yes,,probe
+data/raw/kalighat painting/kalighat62.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,1593,yes,,probe
+data/raw/kalighat painting/kalighat63.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,650,yes,,probe
+data/raw/kalighat painting/kalighat64.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",3000,3000,yes,,probe
+data/raw/kalighat painting/kalighat65.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",540,630,yes,,probe
+data/raw/kalighat painting/kalighat66.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/kalighat painting/kalighat67.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/kalighat painting/kalighat68.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/kalighat painting/kalighat69.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/kalighat painting/kalighat7.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1000,yes,,probe
+data/raw/kalighat painting/kalighat70.webp,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,582,yes,,probe
+data/raw/kalighat painting/kalighat71.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",864,1292,yes,,probe
+data/raw/kalighat painting/kalighat72.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",864,1292,yes,,probe
+data/raw/kalighat painting/kalighat73.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",864,1292,yes,,probe
+data/raw/kalighat painting/kalighat74.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,340,yes,,probe
+data/raw/kalighat painting/kalighat75.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1174,600,yes,,probe
+data/raw/kalighat painting/kalighat76.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",680,850,yes,,probe
+data/raw/kalighat painting/kalighat77.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1456,816,yes,,probe
+data/raw/kalighat painting/kalighat78.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,1024,yes,,probe
+data/raw/kalighat painting/kalighat79.png,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",512,512,yes,,probe
+data/raw/kalighat painting/kalighat8.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",593,768,yes,,probe
+data/raw/kalighat painting/kalighat80.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1326,yes,,probe
+data/raw/kalighat painting/kalighat81.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1326,yes,,probe
+data/raw/kalighat painting/kalighat82.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1288,yes,,probe
+data/raw/kalighat painting/kalighat83.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1325,yes,,probe
+data/raw/kalighat painting/kalighat84.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1099,yes,,probe
+data/raw/kalighat painting/kalighat85.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,662,yes,,probe
+data/raw/kalighat painting/kalighat86.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2304,1536,yes,,probe
+data/raw/kalighat painting/kalighat87.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2304,1536,yes,,probe
+data/raw/kalighat painting/kalighat88.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",756,1050,yes,,probe
+data/raw/kalighat painting/kalighat89.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",511,720,yes,,probe
+data/raw/kalighat painting/kalighat9.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",754,1000,yes,,probe
+data/raw/kalighat painting/kalighat90.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",474,720,yes,,probe
+data/raw/kalighat painting/kalighat91.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",960,1366,yes,,probe
+data/raw/kalighat painting/kalighat92.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",720,901,yes,,probe
+data/raw/kalighat painting/kalighat93.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",978,1280,yes,,probe
+data/raw/kalighat painting/kalighat94.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",669,1005,yes,,probe
+data/raw/kalighat painting/kalighat95.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",380,619,yes,,probe
+data/raw/kalighat painting/kalighat96.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,967,yes,,probe
+data/raw/kalighat painting/kalighat97.jpeg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",422,570,yes,,probe
+data/raw/kalighat painting/kalighat98.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,1000,yes,,probe
+data/raw/kalighat painting/kalighat99.jpg,kalighat,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",883,1200,yes,,probe
+data/raw/kangra painting/kangra0.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2291,1286,yes,,probe
+data/raw/kangra painting/kangra1.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",469,653,yes,,probe
+data/raw/kangra painting/kangra10.jpeg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",450,638,yes,,probe
+data/raw/kangra painting/kangra11.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",337,480,yes,,probe
+data/raw/kangra painting/kangra12.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,705,yes,,probe
+data/raw/kangra painting/kangra13.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,660,yes,,probe
+data/raw/kangra painting/kangra14.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",341,550,yes,,probe
+data/raw/kangra painting/kangra15.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",713,713,yes,,probe
+data/raw/kangra painting/kangra16.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",382,500,yes,,probe
+data/raw/kangra painting/kangra17.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1414,2018,yes,,probe
+data/raw/kangra painting/kangra18.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",3130,1959,yes,,probe
+data/raw/kangra painting/kangra19.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,340,yes,,probe
+data/raw/kangra painting/kangra2.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1260,yes,,probe
+data/raw/kangra painting/kangra20.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",770,1026,yes,,probe
+data/raw/kangra painting/kangra21.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1412,2014,yes,,probe
+data/raw/kangra painting/kangra22.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1383,1400,yes,,probe
+data/raw/kangra painting/kangra23.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",900,900,yes,,probe
+data/raw/kangra painting/kangra24.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1300,1103,yes,,probe
+data/raw/kangra painting/kangra25.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",3733,2587,yes,,probe
+data/raw/kangra painting/kangra26.png,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,888,yes,,probe
+data/raw/kangra painting/kangra27.png,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,888,yes,,probe
+data/raw/kangra painting/kangra28.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",887,1280,yes,,probe
+data/raw/kangra painting/kangra29.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",887,1280,yes,,probe
+data/raw/kangra painting/kangra3.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",768,495,yes,,probe
+data/raw/kangra painting/kangra30.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,683,yes,,probe
+data/raw/kangra painting/kangra31.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,764,yes,,probe
+data/raw/kangra painting/kangra32.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,806,yes,,probe
+data/raw/kangra painting/kangra33.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",850,550,yes,,probe
+data/raw/kangra painting/kangra34.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",850,550,yes,,probe
+data/raw/kangra painting/kangra35.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",716,1024,yes,,probe
+data/raw/kangra painting/kangra36.png,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",850,852,yes,,probe
+data/raw/kangra painting/kangra37.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",774,1024,yes,,probe
+data/raw/kangra painting/kangra39.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,510,yes,,probe
+data/raw/kangra painting/kangra4.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,903,yes,,probe
+data/raw/kangra painting/kangra40.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",770,902,yes,,probe
+data/raw/kangra painting/kangra41.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",840,1024,yes,,probe
+data/raw/kangra painting/kangra42.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,850,yes,,probe
+data/raw/kangra painting/kangra43.jpeg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",713,1000,yes,,probe
+data/raw/kangra painting/kangra44.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",570,1013,yes,,probe
+data/raw/kangra painting/kangra45.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1100,1688,yes,,probe
+data/raw/kangra painting/kangra46.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1021,1400,yes,,probe
+data/raw/kangra painting/kangra47.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",898,1390,yes,,probe
+data/raw/kangra painting/kangra48.jpeg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",3301,2477,yes,,probe
+data/raw/kangra painting/kangra49.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",587,400,yes,,probe
+data/raw/kangra painting/kangra5.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2374,3721,yes,,probe
+data/raw/kangra painting/kangra50.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,974,yes,,probe
+data/raw/kangra painting/kangra51.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,340,yes,,probe
+data/raw/kangra painting/kangra52.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,340,yes,,probe
+data/raw/kangra painting/kangra53.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,340,yes,,probe
+data/raw/kangra painting/kangra54.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",917,436,yes,,probe
+data/raw/kangra painting/kangra55.jpeg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",721,955,yes,,probe
+data/raw/kangra painting/kangra56.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,773,yes,,probe
+data/raw/kangra painting/kangra57.JPG,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,723,yes,,probe
+data/raw/kangra painting/kangra58.JPG,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,642,yes,,probe
+data/raw/kangra painting/kangra59.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1100,756,yes,,probe
+data/raw/kangra painting/kangra6.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",465,640,yes,,probe
+data/raw/kangra painting/kangra60.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,451,yes,,probe
+data/raw/kangra painting/kangra61.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/kangra painting/kangra62.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1695,1860,yes,,probe
+data/raw/kangra painting/kangra63.jpeg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",343,486,yes,,probe
+data/raw/kangra painting/kangra64.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",552,552,yes,,probe
+data/raw/kangra painting/kangra65.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",848,1390,yes,,probe
+data/raw/kangra painting/kangra66.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",448,612,yes,,probe
+data/raw/kangra painting/kangra67.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",766,519,yes,,probe
+data/raw/kangra painting/kangra68.png,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,888,yes,,probe
+data/raw/kangra painting/kangra69.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,800,yes,,probe
+data/raw/kangra painting/kangra7.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",660,880,yes,,probe
+data/raw/kangra painting/kangra70.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,665,yes,,probe
+data/raw/kangra painting/kangra72.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,400,yes,,probe
+data/raw/kangra painting/kangra73.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,658,yes,,probe
+data/raw/kangra painting/kangra74.jpeg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",869,1000,yes,,probe
+data/raw/kangra painting/kangra75.png,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",400,500,yes,,probe
+data/raw/kangra painting/kangra76.jpeg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,983,yes,,probe
+data/raw/kangra painting/kangra77.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",887,1280,yes,,probe
+data/raw/kangra painting/kangra78.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",474,698,yes,,probe
+data/raw/kangra painting/kangra79.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",442,736,yes,,probe
+data/raw/kangra painting/kangra8.jpeg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",660,426,yes,,probe
+data/raw/kangra painting/kangra80.jpeg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,994,yes,,probe
+data/raw/kangra painting/kangra81.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/kangra painting/kangra82.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1055,1400,yes,,probe
+data/raw/kangra painting/kangra83.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",449,600,yes,,probe
+data/raw/kangra painting/kangra84.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",768,495,yes,,probe
+data/raw/kangra painting/kangra85.jpeg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1042,436,yes,,probe
+data/raw/kangra painting/kangra86.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,850,yes,,probe
+data/raw/kangra painting/kangra87.jpeg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",990,1000,yes,,probe
+data/raw/kangra painting/kangra88.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",657,960,yes,,probe
+data/raw/kangra painting/kangra9.jpg,kangra,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",220,304,yes,,probe
+data/raw/kerala mural/kerala0.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,1000,yes,,probe
+data/raw/kerala mural/kerala1.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,352,yes,,probe
+data/raw/kerala mural/kerala10.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",812,887,yes,,probe
+data/raw/kerala mural/kerala11.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",774,1024,yes,,probe
+data/raw/kerala mural/kerala12.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",455,600,yes,,probe
+data/raw/kerala mural/kerala13.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",709,709,yes,,probe
+data/raw/kerala mural/kerala14.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",628,960,yes,,probe
+data/raw/kerala mural/kerala15.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",799,651,yes,,probe
+data/raw/kerala mural/kerala16.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",770,1089,yes,,probe
+data/raw/kerala mural/kerala17.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",770,1078,yes,,probe
+data/raw/kerala mural/kerala18.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,753,yes,,probe
+data/raw/kerala mural/kerala19.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1868,1820,yes,,probe
+data/raw/kerala mural/kerala2.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/kerala mural/kerala20.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",568,796,yes,,probe
+data/raw/kerala mural/kerala21.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2296,1670,yes,,probe
+data/raw/kerala mural/kerala22.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1672,1146,yes,,probe
+data/raw/kerala mural/kerala23.png,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",679,1206,yes,,probe
+data/raw/kerala mural/kerala24.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",794,1290,yes,,probe
+data/raw/kerala mural/kerala25.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,850,yes,,probe
+data/raw/kerala mural/kerala26.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,probe
+data/raw/kerala mural/kerala27.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",720,405,yes,,probe
+data/raw/kerala mural/kerala28.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",457,527,yes,,probe
+data/raw/kerala mural/kerala29.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,2000,yes,,probe
+data/raw/kerala mural/kerala3.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,1024,yes,,probe
+data/raw/kerala mural/kerala30.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,800,yes,,probe
+data/raw/kerala mural/kerala31.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,734,yes,,probe
+data/raw/kerala mural/kerala32.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1200,yes,,probe
+data/raw/kerala mural/kerala33.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",750,1000,yes,,probe
+data/raw/kerala mural/kerala34.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",811,1100,yes,,probe
+data/raw/kerala mural/kerala35.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",3550,2359,yes,,probe
+data/raw/kerala mural/kerala36.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1200,yes,,probe
+data/raw/kerala mural/kerala37.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",686,386,yes,,probe
+data/raw/kerala mural/kerala38.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1509,yes,,probe
+data/raw/kerala mural/kerala39.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",872,1272,yes,,probe
+data/raw/kerala mural/kerala4.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",598,598,yes,,probe
+data/raw/kerala mural/kerala40.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",3000,2290,yes,,probe
+data/raw/kerala mural/kerala41.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",576,300,yes,,probe
+data/raw/kerala mural/kerala42.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,probe
+data/raw/kerala mural/kerala43.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,probe
+data/raw/kerala mural/kerala44.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",868,1280,yes,,probe
+data/raw/kerala mural/kerala45.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,600,yes,,probe
+data/raw/kerala mural/kerala46.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,683,yes,,probe
+data/raw/kerala mural/kerala47.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",619,960,yes,,probe
+data/raw/kerala mural/kerala48.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",736,883,yes,,probe
+data/raw/kerala mural/kerala49.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",660,400,yes,,probe
+data/raw/kerala mural/kerala5.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",598,598,yes,,probe
+data/raw/kerala mural/kerala50.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",794,800,yes,,probe
+data/raw/kerala mural/kerala51.jpeg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",984,1245,yes,,probe
+data/raw/kerala mural/kerala52.jpeg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,371,yes,,probe
+data/raw/kerala mural/kerala53.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",870,510,yes,,probe
+data/raw/kerala mural/kerala54.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",870,510,yes,,probe
+data/raw/kerala mural/kerala55.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1204,1600,yes,,probe
+data/raw/kerala mural/kerala56.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",660,400,yes,,probe
+data/raw/kerala mural/kerala57.jpeg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",591,1024,yes,,probe
+data/raw/kerala mural/kerala58.jpeg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,1240,yes,,probe
+data/raw/kerala mural/kerala59.jpeg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,800,yes,,probe
+data/raw/kerala mural/kerala6.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",472,659,yes,,probe
+data/raw/kerala mural/kerala60.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,930,yes,,probe
+data/raw/kerala mural/kerala61.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1066,yes,,probe
+data/raw/kerala mural/kerala62.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1077,1500,yes,,probe
+data/raw/kerala mural/kerala63.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/kerala mural/kerala64.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/kerala mural/kerala65.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",900,546,yes,,probe
+data/raw/kerala mural/kerala66.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,480,yes,,probe
+data/raw/kerala mural/kerala67.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",720,502,yes,,probe
+data/raw/kerala mural/kerala68.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,720,yes,,probe
+data/raw/kerala mural/kerala69.jpeg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",667,1000,yes,,probe
+data/raw/kerala mural/kerala7.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,684,yes,,probe
+data/raw/kerala mural/kerala70.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",864,1296,yes,,probe
+data/raw/kerala mural/kerala71.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,625,yes,,probe
+data/raw/kerala mural/kerala72.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",864,1296,yes,,probe
+data/raw/kerala mural/kerala74.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",966,431,yes,,probe
+data/raw/kerala mural/kerala75.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1026,2000,yes,,probe
+data/raw/kerala mural/kerala76.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,1280,yes,,probe
+data/raw/kerala mural/kerala77.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1100,860,yes,,probe
+data/raw/kerala mural/kerala78.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1099,1100,yes,,probe
+data/raw/kerala mural/kerala79.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,probe
+data/raw/kerala mural/kerala8.png,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1400,924,yes,,probe
+data/raw/kerala mural/kerala80.jpeg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",850,426,yes,,probe
+data/raw/kerala mural/kerala81.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",900,505,yes,,probe
+data/raw/kerala mural/kerala82.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,850,yes,,probe
+data/raw/kerala mural/kerala83.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1072,yes,,probe
+data/raw/kerala mural/kerala84.jpeg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",966,666,yes,,probe
+data/raw/kerala mural/kerala85.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1106,1600,yes,,probe
+data/raw/kerala mural/kerala86.webp,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",785,1000,yes,,probe
+data/raw/kerala mural/kerala87.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",900,663,yes,,probe
+data/raw/kerala mural/kerala88.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1400,656,yes,,probe
+data/raw/kerala mural/kerala89.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2000,yes,,probe
+data/raw/kerala mural/kerala9.webp,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,550,yes,,probe
+data/raw/kerala mural/kerala90.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2000,yes,,probe
+data/raw/kerala mural/kerala91.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2000,yes,,probe
+data/raw/kerala mural/kerala92.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2000,yes,,probe
+data/raw/kerala mural/kerala93.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",720,792,yes,,probe
+data/raw/kerala mural/kerala94.jpg,kerala mural,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,660,yes,,probe
+data/raw/madhubani painting/madhubani0.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",720,720,yes,,probe
+data/raw/madhubani painting/madhubani1.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1051,1500,yes,,probe
+data/raw/madhubani painting/madhubani10.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",904,1500,yes,,probe
+data/raw/madhubani painting/madhubani11.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1200,yes,,probe
+data/raw/madhubani painting/madhubani12.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",770,2308,yes,,probe
+data/raw/madhubani painting/madhubani13.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",770,994,yes,,probe
+data/raw/madhubani painting/madhubani14.jpeg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",787,1000,yes,,probe
+data/raw/madhubani painting/madhubani15.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",720,720,yes,,probe
+data/raw/madhubani painting/madhubani16.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2000,yes,,probe
+data/raw/madhubani painting/madhubani17.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1138,1500,yes,,probe
+data/raw/madhubani painting/madhubani18.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2455,1500,yes,,probe
+data/raw/madhubani painting/madhubani19.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2560,2560,yes,,probe
+data/raw/madhubani painting/madhubani2.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",622,1500,yes,,probe
+data/raw/madhubani painting/madhubani20.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1588,2288,yes,,probe
+data/raw/madhubani painting/madhubani21.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,753,yes,,probe
+data/raw/madhubani painting/madhubani22.png,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",720,720,yes,,probe
+data/raw/madhubani painting/madhubani23.png,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1029,1440,yes,,probe
+data/raw/madhubani painting/madhubani24.png,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1041,1457,yes,,probe
+data/raw/madhubani painting/madhubani25.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1142,yes,,probe
+data/raw/madhubani painting/madhubani26.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,600,yes,,probe
+data/raw/madhubani painting/madhubani27.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1006,1006,yes,,probe
+data/raw/madhubani painting/madhubani28.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",745,1051,yes,,probe
+data/raw/madhubani painting/madhubani29.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1500,yes,,probe
+data/raw/madhubani painting/madhubani3.png,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,600,yes,,probe
+data/raw/madhubani painting/madhubani30.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,900,yes,,probe
+data/raw/madhubani painting/madhubani31.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1154,yes,,probe
+data/raw/madhubani painting/madhubani32.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",738,1600,yes,,probe
+data/raw/madhubani painting/madhubani33.jpeg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2068,2800,yes,,probe
+data/raw/madhubani painting/madhubani34.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1006,1006,yes,,probe
+data/raw/madhubani painting/madhubani35.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,2000,yes,,probe
+data/raw/madhubani painting/madhubani36.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",350,350,yes,,probe
+data/raw/madhubani painting/madhubani37.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",736,1064,yes,,probe
+data/raw/madhubani painting/madhubani38.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",604,800,yes,,probe
+data/raw/madhubani painting/madhubani39.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",750,1000,yes,,probe
+data/raw/madhubani painting/madhubani4.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1120,1500,yes,,probe
+data/raw/madhubani painting/madhubani40.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/madhubani painting/madhubani41.png,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",447,558,yes,,probe
+data/raw/madhubani painting/madhubani42.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",750,1000,yes,,probe
+data/raw/madhubani painting/madhubani43.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",843,1200,yes,,probe
+data/raw/madhubani painting/madhubani44.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",686,386,yes,,probe
+data/raw/madhubani painting/madhubani45.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,1137,yes,,probe
+data/raw/madhubani painting/madhubani46.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2439,3000,yes,,probe
+data/raw/madhubani painting/madhubani47.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2500,2000,yes,,probe
+data/raw/madhubani painting/madhubani48.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2046,2048,yes,,probe
+data/raw/madhubani painting/madhubani49.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1874,2560,yes,,probe
+data/raw/madhubani painting/madhubani5.png,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/madhubani painting/madhubani50.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",663,960,yes,,probe
+data/raw/madhubani painting/madhubani51.jpeg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,511,yes,,probe
+data/raw/madhubani painting/madhubani52.jpeg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",343,252,yes,,probe
+data/raw/madhubani painting/madhubani53.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1080,yes,,probe
+data/raw/madhubani painting/madhubani54.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",400,500,yes,,probe
+data/raw/madhubani painting/madhubani55.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",509,800,yes,,probe
+data/raw/madhubani painting/madhubani56.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",475,621,yes,,probe
+data/raw/madhubani painting/madhubani57.jpeg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",869,1187,yes,,probe
+data/raw/madhubani painting/madhubani58.png,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,600,yes,,probe
+data/raw/madhubani painting/madhubani59.png,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1080,yes,,probe
+data/raw/madhubani painting/madhubani6.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",725,1024,yes,,probe
+data/raw/madhubani painting/madhubani60.jpeg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,787,yes,,probe
+data/raw/madhubani painting/madhubani61.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",689,969,yes,,probe
+data/raw/madhubani painting/madhubani62.jpeg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,848,yes,,probe
+data/raw/madhubani painting/madhubani63.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/madhubani painting/madhubani64.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1600,1600,yes,,probe
+data/raw/madhubani painting/madhubani65.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",466,700,yes,,probe
+data/raw/madhubani painting/madhubani66.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",466,700,yes,,probe
+data/raw/madhubani painting/madhubani67.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",466,700,yes,,probe
+data/raw/madhubani painting/madhubani68.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",466,700,yes,,probe
+data/raw/madhubani painting/madhubani69.png,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",446,600,yes,,probe
+data/raw/madhubani painting/madhubani7.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",735,1106,yes,,probe
+data/raw/madhubani painting/madhubani70.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,2000,yes,,probe
+data/raw/madhubani painting/madhubani71.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,2000,yes,,probe
+data/raw/madhubani painting/madhubani72.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/madhubani painting/madhubani73.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",400,610,yes,,probe
+data/raw/madhubani painting/madhubani74.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",900,1251,yes,,probe
+data/raw/madhubani painting/madhubani76.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",899,565,yes,,probe
+data/raw/madhubani painting/madhubani77.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1080,yes,,probe
+data/raw/madhubani painting/madhubani78.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",473,500,yes,,probe
+data/raw/madhubani painting/madhubani79.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",482,738,yes,,probe
+data/raw/madhubani painting/madhubani8.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",750,422,yes,,probe
+data/raw/madhubani painting/madhubani80.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",851,1000,yes,,probe
+data/raw/madhubani painting/madhubani81.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1600,yes,,probe
+data/raw/madhubani painting/madhubani82.webp,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",731,1000,yes,,probe
+data/raw/madhubani painting/madhubani83.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,318,yes,,probe
+data/raw/madhubani painting/madhubani84.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1200,yes,,probe
+data/raw/madhubani painting/madhubani85.jpeg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",655,800,yes,,probe
+data/raw/madhubani painting/madhubani86.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2682,1969,yes,,probe
+data/raw/madhubani painting/madhubani87.webp,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",512,713,yes,,probe
+data/raw/madhubani painting/madhubani88.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/madhubani painting/madhubani89.webp,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",512,756,yes,,probe
+data/raw/madhubani painting/madhubani9.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1161,1632,yes,,probe
+data/raw/madhubani painting/madhubani90.jpeg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,720,yes,,probe
+data/raw/madhubani painting/madhubani91.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1600,yes,,probe
+data/raw/madhubani painting/madhubani92.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1600,yes,,probe
+data/raw/madhubani painting/madhubani93.jpeg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,435,yes,,probe
+data/raw/madhubani painting/madhubani94.jpg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,700,yes,,probe
+data/raw/madhubani painting/madhubani95.jpeg,madhubani,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1250,yes,,probe
+data/raw/mandana art drawing/mandana0.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",577,372,yes,,probe
+data/raw/mandana art drawing/mandana1.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",519,377,yes,,probe
+data/raw/mandana art drawing/mandana10.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",675,1200,yes,,probe
+data/raw/mandana art drawing/mandana100.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",450,450,yes,,probe
+data/raw/mandana art drawing/mandana101.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,600,yes,,probe
+data/raw/mandana art drawing/mandana102.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,956,yes,,probe
+data/raw/mandana art drawing/mandana103.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,864,yes,,probe
+data/raw/mandana art drawing/mandana104.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2748,3664,yes,,probe
+data/raw/mandana art drawing/mandana105.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2577,1450,yes,,probe
+data/raw/mandana art drawing/mandana106.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",953,1190,yes,,probe
+data/raw/mandana art drawing/mandana107.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,720,yes,,probe
+data/raw/mandana art drawing/mandana108.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,720,yes,,probe
+data/raw/mandana art drawing/mandana109.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,720,yes,,probe
+data/raw/mandana art drawing/mandana11.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,745,yes,,probe
+data/raw/mandana art drawing/mandana110.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,720,yes,,probe
+data/raw/mandana art drawing/mandana111.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,720,yes,,probe
+data/raw/mandana art drawing/mandana112.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,720,yes,,probe
+data/raw/mandana art drawing/mandana113.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,620,yes,,probe
+data/raw/mandana art drawing/mandana114.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1067,yes,,probe
+data/raw/mandana art drawing/mandana115.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2500,1368,yes,,probe
+data/raw/mandana art drawing/mandana117.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",920,550,yes,,probe
+data/raw/mandana art drawing/mandana118.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",360,360,yes,,probe
+data/raw/mandana art drawing/mandana119.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1200,yes,,probe
+data/raw/mandana art drawing/mandana12.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,640,yes,,probe
+data/raw/mandana art drawing/mandana120.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",360,360,yes,,probe
+data/raw/mandana art drawing/mandana121.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,428,yes,,probe
+data/raw/mandana art drawing/mandana122.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",623,934,yes,,probe
+data/raw/mandana art drawing/mandana123.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1132,1470,yes,,probe
+data/raw/mandana art drawing/mandana124.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1920,1920,yes,,probe
+data/raw/mandana art drawing/mandana125.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",626,626,yes,,probe
+data/raw/mandana art drawing/mandana126.webp,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",828,459,yes,,probe
+data/raw/mandana art drawing/mandana127.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",828,460,yes,,probe
+data/raw/mandana art drawing/mandana128.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1311,720,yes,,probe
+data/raw/mandana art drawing/mandana129.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",480,480,yes,,probe
+data/raw/mandana art drawing/mandana13.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1200,yes,,probe
+data/raw/mandana art drawing/mandana130.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",890,512,yes,,probe
+data/raw/mandana art drawing/mandana131.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1728,1152,yes,,probe
+data/raw/mandana art drawing/mandana132.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1067,yes,,probe
+data/raw/mandana art drawing/mandana133.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1023,yes,,probe
+data/raw/mandana art drawing/mandana134.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",380,384,yes,,probe
+data/raw/mandana art drawing/mandana135.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,537,yes,,probe
+data/raw/mandana art drawing/mandana136.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,537,yes,,probe
+data/raw/mandana art drawing/mandana137.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",3468,4624,yes,,probe
+data/raw/mandana art drawing/mandana138.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",887,1280,yes,,probe
+data/raw/mandana art drawing/mandana139.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",887,1280,yes,,probe
+data/raw/mandana art drawing/mandana14.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",360,360,yes,,probe
+data/raw/mandana art drawing/mandana140.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,427,yes,,probe
+data/raw/mandana art drawing/mandana15.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",563,776,yes,,probe
+data/raw/mandana art drawing/mandana16.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",720,563,yes,,probe
+data/raw/mandana art drawing/mandana17.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",770,959,yes,,probe
+data/raw/mandana art drawing/mandana18.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",380,720,yes,,probe
+data/raw/mandana art drawing/mandana19.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,617,yes,,probe
+data/raw/mandana art drawing/mandana2.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",652,364,yes,,probe
+data/raw/mandana art drawing/mandana20.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/mandana art drawing/mandana21.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",512,512,yes,,probe
+data/raw/mandana art drawing/mandana22.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,450,yes,,probe
+data/raw/mandana art drawing/mandana23.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",960,1644,yes,,probe
+data/raw/mandana art drawing/mandana24.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1920,1080,yes,,probe
+data/raw/mandana art drawing/mandana25.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1352,880,yes,,probe
+data/raw/mandana art drawing/mandana26.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1500,yes,,probe
+data/raw/mandana art drawing/mandana27.webp,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,1024,yes,,probe
+data/raw/mandana art drawing/mandana28.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",292,292,yes,,probe
+data/raw/mandana art drawing/mandana29.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",375,666,yes,,probe
+data/raw/mandana art drawing/mandana3.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1944,2592,yes,,probe
+data/raw/mandana art drawing/mandana30.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",200,186,yes,,probe
+data/raw/mandana art drawing/mandana31.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",375,375,yes,,probe
+data/raw/mandana art drawing/mandana32.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",375,375,yes,,probe
+data/raw/mandana art drawing/mandana33.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",288,512,yes,,probe
+data/raw/mandana art drawing/mandana34.webp,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,1024,yes,,probe
+data/raw/mandana art drawing/mandana35.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",603,1200,yes,,probe
+data/raw/mandana art drawing/mandana36.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2252,2560,yes,,probe
+data/raw/mandana art drawing/mandana37.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1365,2048,yes,,probe
+data/raw/mandana art drawing/mandana38.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1555,1037,yes,,probe
+data/raw/mandana art drawing/mandana39.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",770,770,yes,,probe
+data/raw/mandana art drawing/mandana4.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",375,500,yes,,probe
+data/raw/mandana art drawing/mandana40.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",748,720,yes,,probe
+data/raw/mandana art drawing/mandana41.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",479,600,yes,,probe
+data/raw/mandana art drawing/mandana42.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1080,yes,,probe
+data/raw/mandana art drawing/mandana43.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",845,1630,yes,,probe
+data/raw/mandana art drawing/mandana44.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1920,1920,yes,,probe
+data/raw/mandana art drawing/mandana45.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",626,584,yes,,probe
+data/raw/mandana art drawing/mandana46.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,372,yes,,probe
+data/raw/mandana art drawing/mandana47.webp,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,1024,yes,,probe
+data/raw/mandana art drawing/mandana48.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1440,1253,yes,,probe
+data/raw/mandana art drawing/mandana49.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2048,1530,yes,,probe
+data/raw/mandana art drawing/mandana5.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1080,yes,,probe
+data/raw/mandana art drawing/mandana50.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",734,1000,yes,,probe
+data/raw/mandana art drawing/mandana51.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",778,1000,yes,,probe
+data/raw/mandana art drawing/mandana52.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,probe
+data/raw/mandana art drawing/mandana53.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",450,450,yes,,probe
+data/raw/mandana art drawing/mandana54.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2200,1000,yes,,probe
+data/raw/mandana art drawing/mandana55.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1152,yes,,probe
+data/raw/mandana art drawing/mandana56.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,801,yes,,probe
+data/raw/mandana art drawing/mandana57.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",461,461,yes,,probe
+data/raw/mandana art drawing/mandana58.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",686,386,yes,,probe
+data/raw/mandana art drawing/mandana59.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",570,428,yes,,probe
+data/raw/mandana art drawing/mandana6.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",348,342,yes,,probe
+data/raw/mandana art drawing/mandana60.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",570,570,yes,,probe
+data/raw/mandana art drawing/mandana61.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",3000,3000,yes,,probe
+data/raw/mandana art drawing/mandana62.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,684,yes,,probe
+data/raw/mandana art drawing/mandana63.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",746,585,yes,,probe
+data/raw/mandana art drawing/mandana64.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",720,1168,yes,,probe
+data/raw/mandana art drawing/mandana65.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1500,yes,,probe
+data/raw/mandana art drawing/mandana66.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",940,940,yes,,probe
+data/raw/mandana art drawing/mandana67.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",940,940,yes,,probe
+data/raw/mandana art drawing/mandana68.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1300,941,yes,,probe
+data/raw/mandana art drawing/mandana69.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",385,500,yes,,probe
+data/raw/mandana art drawing/mandana7.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",600,397,yes,,probe
+data/raw/mandana art drawing/mandana70.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",221,280,yes,,probe
+data/raw/mandana art drawing/mandana71.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,682,yes,,probe
+data/raw/mandana art drawing/mandana72.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1067,yes,,probe
+data/raw/mandana art drawing/mandana73.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1067,yes,,probe
+data/raw/mandana art drawing/mandana74.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,713,yes,,probe
+data/raw/mandana art drawing/mandana75.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",338,338,yes,,probe
+data/raw/mandana art drawing/mandana76.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",400,400,yes,,probe
+data/raw/mandana art drawing/mandana77.webp,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",562,348,yes,,probe
+data/raw/mandana art drawing/mandana78.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",602,427,yes,,probe
+data/raw/mandana art drawing/mandana79.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",540,540,yes,,probe
+data/raw/mandana art drawing/mandana8.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1086,1500,yes,,probe
+data/raw/mandana art drawing/mandana80.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,probe
+data/raw/mandana art drawing/mandana81.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",615,827,yes,,probe
+data/raw/mandana art drawing/mandana82.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",755,1132,yes,,probe
+data/raw/mandana art drawing/mandana83.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",480,480,yes,,probe
+data/raw/mandana art drawing/mandana84.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,600,yes,,probe
+data/raw/mandana art drawing/mandana85.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1000,yes,,probe
+data/raw/mandana art drawing/mandana86.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,550,yes,,probe
+data/raw/mandana art drawing/mandana87.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1178,yes,,probe
+data/raw/mandana art drawing/mandana88.png,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",634,401,yes,,probe
+data/raw/mandana art drawing/mandana89.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1300,955,yes,,probe
+data/raw/mandana art drawing/mandana9.webp,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",561,1000,yes,,probe
+data/raw/mandana art drawing/mandana90.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",815,840,yes,,probe
+data/raw/mandana art drawing/mandana91.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",940,1280,yes,,probe
+data/raw/mandana art drawing/mandana92.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1141,1600,yes,,probe
+data/raw/mandana art drawing/mandana93.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1108,1600,yes,,probe
+data/raw/mandana art drawing/mandana94.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1038,1038,yes,,probe
+data/raw/mandana art drawing/mandana95.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1186,1280,yes,,probe
+data/raw/mandana art drawing/mandana96.jpeg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1129,1280,yes,,probe
+data/raw/mandana art drawing/mandana97.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,450,yes,,probe
+data/raw/mandana art drawing/mandana98.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,1022,yes,,probe
+data/raw/mandana art drawing/mandana99.jpg,mandana,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,960,yes,,probe
+data/raw/pichwai painting/pichwai0.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",473,593,yes,,probe
+data/raw/pichwai painting/pichwai1.jpeg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",850,960,yes,,probe
+data/raw/pichwai painting/pichwai10.jpeg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",750,1000,yes,,probe
+data/raw/pichwai painting/pichwai11.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1497,yes,,probe
+data/raw/pichwai painting/pichwai12.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1497,yes,,probe
+data/raw/pichwai painting/pichwai13.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1124,1500,yes,,probe
+data/raw/pichwai painting/pichwai14.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,996,yes,,probe
+data/raw/pichwai painting/pichwai15.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2500,yes,,probe
+data/raw/pichwai painting/pichwai16.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1774,2048,yes,,probe
+data/raw/pichwai painting/pichwai17.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",794,1084,yes,,probe
+data/raw/pichwai painting/pichwai18.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",420,527,yes,,probe
+data/raw/pichwai painting/pichwai19.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1200,yes,,probe
+data/raw/pichwai painting/pichwai2.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1260,yes,,probe
+data/raw/pichwai painting/pichwai20.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",727,800,yes,,probe
+data/raw/pichwai painting/pichwai21.png,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,probe
+data/raw/pichwai painting/pichwai22.jpeg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/pichwai painting/pichwai23.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2000,yes,,probe
+data/raw/pichwai painting/pichwai24.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2224,2944,yes,,probe
+data/raw/pichwai painting/pichwai25.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1500,yes,,probe
+data/raw/pichwai painting/pichwai26.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1500,yes,,probe
+data/raw/pichwai painting/pichwai27.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1431,1909,yes,,probe
+data/raw/pichwai painting/pichwai28.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",770,756,yes,,probe
+data/raw/pichwai painting/pichwai29.png,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",713,1056,yes,,probe
+data/raw/pichwai painting/pichwai3.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",512,511,yes,,probe
+data/raw/pichwai painting/pichwai30.jpeg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",514,685,yes,,probe
+data/raw/pichwai painting/pichwai31.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2560,2560,yes,,probe
+data/raw/pichwai painting/pichwai32.png,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1080,yes,,probe
+data/raw/pichwai painting/pichwai33.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1200,yes,,probe
+data/raw/pichwai painting/pichwai34.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",480,600,yes,,probe
+data/raw/pichwai painting/pichwai35.png,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",760,492,yes,,probe
+data/raw/pichwai painting/pichwai36.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",720,1080,yes,,probe
+data/raw/pichwai painting/pichwai37.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1300,yes,,probe
+data/raw/pichwai painting/pichwai38.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1300,yes,,probe
+data/raw/pichwai painting/pichwai39.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",845,435,yes,,probe
+data/raw/pichwai painting/pichwai4.png,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1946,1946,yes,,probe
+data/raw/pichwai painting/pichwai40.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",400,567,yes,,probe
+data/raw/pichwai painting/pichwai41.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1080,yes,,probe
+data/raw/pichwai painting/pichwai42.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",3364,3224,yes,,probe
+data/raw/pichwai painting/pichwai43.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",875,950,yes,,probe
+data/raw/pichwai painting/pichwai44.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1930,2560,yes,,probe
+data/raw/pichwai painting/pichwai45.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1723,2586,yes,,probe
+data/raw/pichwai painting/pichwai46.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1325,yes,,probe
+data/raw/pichwai painting/pichwai47.webp,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",512,512,yes,,probe
+data/raw/pichwai painting/pichwai48.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1316,721,yes,,probe
+data/raw/pichwai painting/pichwai49.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",570,783,yes,,probe
+data/raw/pichwai painting/pichwai5.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",512,511,yes,,probe
+data/raw/pichwai painting/pichwai50.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2023,2418,yes,,probe
+data/raw/pichwai painting/pichwai51.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2004,3000,yes,,probe
+data/raw/pichwai painting/pichwai52.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,768,yes,,probe
+data/raw/pichwai painting/pichwai53.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",736,981,yes,,probe
+data/raw/pichwai painting/pichwai54.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/pichwai painting/pichwai55.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",698,930,yes,,probe
+data/raw/pichwai painting/pichwai56.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",698,930,yes,,probe
+data/raw/pichwai painting/pichwai57.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1066,yes,,probe
+data/raw/pichwai painting/pichwai58.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1100,1071,yes,,probe
+data/raw/pichwai painting/pichwai59.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1100,1458,yes,,probe
+data/raw/pichwai painting/pichwai6.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/pichwai painting/pichwai60.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1325,yes,,probe
+data/raw/pichwai painting/pichwai61.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",906,1200,yes,,probe
+data/raw/pichwai painting/pichwai62.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1008,1008,yes,,probe
+data/raw/pichwai painting/pichwai63.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",701,700,yes,,probe
+data/raw/pichwai painting/pichwai64.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,1500,yes,,probe
+data/raw/pichwai painting/pichwai66.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1300,1300,yes,,probe
+data/raw/pichwai painting/pichwai67.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1300,1300,yes,,probe
+data/raw/pichwai painting/pichwai68.jpeg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1233,1973,yes,,probe
+data/raw/pichwai painting/pichwai69.jpeg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1026,1234,yes,,probe
+data/raw/pichwai painting/pichwai7.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",550,720,yes,,probe
+data/raw/pichwai painting/pichwai70.jpeg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,1174,yes,,probe
+data/raw/pichwai painting/pichwai71.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",585,585,yes,,probe
+data/raw/pichwai painting/pichwai72.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",649,769,yes,,probe
+data/raw/pichwai painting/pichwai73.jpeg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1276,1037,yes,,probe
+data/raw/pichwai painting/pichwai74.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,1846,yes,,probe
+data/raw/pichwai painting/pichwai75.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",845,435,yes,,probe
+data/raw/pichwai painting/pichwai76.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,probe
+data/raw/pichwai painting/pichwai77.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",792,792,yes,,probe
+data/raw/pichwai painting/pichwai78.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1946,1946,yes,,probe
+data/raw/pichwai painting/pichwai79.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",906,1200,yes,,probe
+data/raw/pichwai painting/pichwai8.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1051,1051,yes,,probe
+data/raw/pichwai painting/pichwai80.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,yes,,probe
+data/raw/pichwai painting/pichwai81.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,1280,yes,,probe
+data/raw/pichwai painting/pichwai82.png,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",316,400,yes,,probe
+data/raw/pichwai painting/pichwai83.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1593,1353,yes,,probe
+data/raw/pichwai painting/pichwai84.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1267,2000,yes,,probe
+data/raw/pichwai painting/pichwai85.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1067,yes,,probe
+data/raw/pichwai painting/pichwai86.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1228,2000,yes,,probe
+data/raw/pichwai painting/pichwai87.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",772,1018,yes,,probe
+data/raw/pichwai painting/pichwai88.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1067,yes,,probe
+data/raw/pichwai painting/pichwai89.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1450,1450,yes,,probe
+data/raw/pichwai painting/pichwai9.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1260,yes,,probe
+data/raw/pichwai painting/pichwai90.jpeg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1237,2000,yes,,probe
+data/raw/pichwai painting/pichwai91.jpeg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",842,1280,yes,,probe
+data/raw/pichwai painting/pichwai92.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1100,1100,yes,,probe
+data/raw/pichwai painting/pichwai93.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,yes,,probe
+data/raw/pichwai painting/pichwai94.jpg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,853,yes,,probe
+data/raw/pichwai painting/pichwai95.jpeg,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",762,1218,yes,,probe
+data/raw/pichwai painting/pichwai96.png,pichwai,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1500,yes,,probe
+data/raw/warli painting/1620463880505_WAR0507_1313__96564.1687167413.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1450,1500,yes,,train
+data/raw/warli painting/1620464275767_WAR0512_1313__83301.1687167405.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1497,1500,yes,,train
+data/raw/warli painting/1630910493247-jpg-500x500.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,375,no,short side < 512,
+data/raw/warli painting/1697527573497.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,720,no,manual review: collage with non-Warli styles,
+data/raw/warli painting/warli10.jpeg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1360,891,yes,,heldout
+data/raw/warli painting/warli11.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,600,yes,,train
+data/raw/warli painting/warli12.jpeg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",520,520,yes,,train
+data/raw/warli painting/warli13.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",799,533,yes,,train
+data/raw/warli painting/warli14.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",804,604,yes,,train
+data/raw/warli painting/warli15.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1080,no,manual review: product photo (room scene),
+data/raw/warli painting/warli16.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",288,360,no,short side < 512,
+data/raw/warli painting/warli17.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",480,360,no,short side < 512,
+data/raw/warli painting/warli18.png,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,500,no,short side < 512,
+data/raw/warli painting/warli19.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",960,711,yes,,train
+data/raw/warli painting/warli20.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1200,no,manual review: product mockup (framed print on plain ground),
+data/raw/warli painting/warli21.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1350,no,manual review: product photo (set of frames on wall),
+data/raw/warli painting/warli22.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1079,1075,yes,,train
+data/raw/warli painting/warli23.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",770,577,yes,,train
+data/raw/warli painting/warli24.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",770,770,yes,,train
+data/raw/warli painting/warli25.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1223,1216,yes,,train
+data/raw/warli painting/warli26.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1544,1944,yes,,train
+data/raw/warli painting/warli27.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1499,yes,,train
+data/raw/warli painting/warli28.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,738,yes,,train
+data/raw/warli painting/warli29.webp,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1181,1181,yes,,train
+data/raw/warli painting/warli30.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2000,yes,,heldout
+data/raw/warli painting/warli31.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,1240,yes,,train
+data/raw/warli painting/warli32.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1006,1006,yes,,train
+data/raw/warli painting/warli33.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,799,yes,,heldout
+data/raw/warli painting/warli34.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,884,no,manual review: stock watermark (VectorStock),
+data/raw/warli painting/warli35.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",650,280,no,short side < 512,
+data/raw/warli painting/warli36.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",559,280,no,short side < 512,
+data/raw/warli painting/warli37.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",750,1000,yes,,train
+data/raw/warli painting/warli38.jpeg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",778,1000,no,manual review: product photo (hand holding frame),
+data/raw/warli painting/warli39.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,823,yes,,train
+data/raw/warli painting/warli4.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1101,1787,no,manual review: packaging with large text,
+data/raw/warli painting/warli40.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,train
+data/raw/warli painting/warli41.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2000,no,CLIP filter: an image covered by a large watermark,
+data/raw/warli painting/warli42.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",480,360,no,short side < 512,
+data/raw/warli painting/warli43.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2236,2236,yes,,train
+data/raw/warli painting/warli44.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1265,949,yes,,heldout
+data/raw/warli painting/warli45.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",750,1000,no,manual review: product mockup (print on white),
+data/raw/warli painting/warli46.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",570,465,no,short side < 512,
+data/raw/warli painting/warli47.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2000,no,manual review: product photo (frames with plants),
+data/raw/warli painting/warli48.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,860,yes,,heldout
+data/raw/warli painting/warli49.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1600,1600,yes,,heldout
+data/raw/warli painting/warli5.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",650,650,yes,,train
+data/raw/warli painting/warli50.webp,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1440,1440,yes,,train
+data/raw/warli painting/warli51.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",528,280,no,short side < 512,
+data/raw/warli painting/warli52.png,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1024,1024,yes,,train
+data/raw/warli painting/warli53.jpeg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,765,yes,,heldout
+data/raw/warli painting/warli54.webp,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",512,512,yes,,heldout
+data/raw/warli painting/warli55.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,720,yes,,heldout
+data/raw/warli painting/warli56.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,720,no,manual review: product photo (card with paints),
+data/raw/warli painting/warli58.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1349,896,yes,,train
+data/raw/warli painting/warli59.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",700,933,no,CLIP filter: an image that is mostly printed text,
+data/raw/warli painting/warli6.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",650,650,yes,,train
+data/raw/warli painting/warli60.jpeg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1227,1280,yes,,train
+data/raw/warli painting/warli61.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,800,yes,,train
+data/raw/warli painting/warli62.png,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1394,yes,,train
+data/raw/warli painting/warli63.png,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1420,yes,,train
+data/raw/warli painting/warli64.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,500,no,short side < 512,
+data/raw/warli painting/warli65.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",772,401,no,short side < 512,
+data/raw/warli painting/warli66.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",640,480,no,short side < 512,
+data/raw/warli painting/warli67.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,2000,yes,,train
+data/raw/warli painting/warli68.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1200,1200,no,manual review: product photo (framed),
+data/raw/warli painting/warli69.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",612,612,yes,,train
+data/raw/warli painting/warli7.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,no,manual review: product listing with dimensions,
+data/raw/warli painting/warli70.webp,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2000,1750,yes,,train
+data/raw/warli painting/warli71.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,513,yes,,train
+data/raw/warli painting/warli72.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1140,881,no,manual review: product mockup (print on white),
+data/raw/warli painting/warli73.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,784,yes,,train
+data/raw/warli painting/warli74.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",720,1000,yes,,train
+data/raw/warli painting/warli75.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2560,1761,yes,,train
+data/raw/warli painting/warli76.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1600,2133,no,manual review: product listing with text and dimensions,
+data/raw/warli painting/warli77.jpeg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,466,no,short side < 512,
+data/raw/warli painting/warli78.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",2560,1874,yes,,train
+data/raw/warli painting/warli79.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",360,240,no,short side < 512,
+data/raw/warli painting/warli8.jpeg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",808,643,no,manual review: photo with a person in front,
+data/raw/warli painting/warli80.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1600,1600,no,manual review: product mockup (room scene),
+data/raw/warli painting/warli81.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",688,900,yes,,train
+data/raw/warli painting/warli82.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",851,1000,yes,,heldout
+data/raw/warli painting/warli83.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",800,1000,yes,,train
+data/raw/warli painting/warli84.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1500,1474,yes,,train
+data/raw/warli painting/warli85.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1491,1500,yes,,train
+data/raw/warli painting/warli86.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1142,916,yes,,train
+data/raw/warli painting/warli87.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1080,no,manual review: product mockup (canvas render),
+data/raw/warli painting/warli88.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1080,1080,no,manual review: product mockup (canvas render),
+data/raw/warli painting/warli89.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1935,1001,yes,,train
+data/raw/warli painting/warli9.jpeg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",736,761,no,manual review: product photo (set of tiles),
+data/raw/warli painting/warli90.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,no,short side < 512,
+data/raw/warli painting/warli91.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",900,526,yes,,heldout
+data/raw/warli painting/warli92.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,no,short side < 512,
+data/raw/warli painting/warli93.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",500,600,no,short side < 512,
+data/raw/warli painting/warli94.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1280,1280,yes,,train
+data/raw/warli painting/warli95.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,no,manual review: product listing with dimensions,
+data/raw/warli painting/warli96.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",1000,1000,no,manual review: product listing with dimensions,
+data/raw/warli painting/warli97.jpg,warli,https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset,"unclear, scraped; research use only",854,860,no,manual review: product mockup (canvas render),

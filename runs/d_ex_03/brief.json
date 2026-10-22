@@ -1,0 +1,47 @@
+{
+ "brief": "Phone wallpaper of the tarpa dance in rings, white on charcoal.",
+ "planner": {
+  "plan": {
+   "product": "phone",
+   "template": "tarpa_spiral",
+   "density": "balanced",
+   "repeat": null,
+   "palette_id": "white_on_charcoal",
+   "border_style": null,
+   "story_beats": [
+    {
+     "beat": "evening",
+     "symbol_ids": [
+      "sun",
+      "hut",
+      "tree"
+     ]
+    },
+    {
+     "beat": "the dance",
+     "symbol_ids": [
+      "tarpa_player",
+      "drummer",
+      "woman",
+      "human"
+     ]
+    },
+    {
+     "beat": "night",
+     "symbol_ids": [
+      "moon",
+      "bird"
+     ]
+    }
+   ],
+   "hero_symbol_id": "tarpa_player",
+   "notes": "rules: stories tarpa"
+  },
+  "backend": "rules",
+  "requested": "rules",
+  "seconds": 0.00012202400102978572,
+  "attempts": 0,
+  "usage": {},
+  "fallback": false
+ }
+}

@@ -1,0 +1,228 @@
+{
+ "id": "d_1a162a6fb00",
+ "mode": "stylized",
+ "seed": 48,
+ "textured": true,
+ "label": "AI-generated, Warli-inspired. Not a GI-certified Warli painting.",
+ "packs": [
+  "warli"
+ ],
+ "settings": {},
+ "plan": {
+  "product": "frame_a4",
+  "template": "registers",
+  "density": "balanced",
+  "repeat": null,
+  "palette_id": "white_on_geru",
+  "border_style": "triangles",
+  "story_beats": [
+   {
+    "beat": "morning",
+    "symbol_ids": [
+     "sun",
+     "woman_pot",
+     "tree"
+    ]
+   },
+   {
+    "beat": "work",
+    "symbol_ids": [
+     "farmer",
+     "animal",
+     "man"
+    ]
+   },
+   {
+    "beat": "home",
+    "symbol_ids": [
+     "hut",
+     "bird"
+    ]
+   }
+  ],
+  "hero_symbol_id": "hut",
+  "notes": "rules: stories village_day"
+ },
+ "parts": [
+  {
+   "name": "main",
+   "W": 2480,
+   "H": 3508,
+   "template": "registers",
+   "repeat": null,
+   "border": "triangles",
+   "stylize": true,
+   "seed": 480
+  }
+ ],
+ "previews": [
+  "preview_design.png"
+ ],
+ "elements": [
+  {
+   "id": 162,
+   "sid": "sun",
+   "role": "support",
+   "iou": 0.7038461538461539,
+   "survived": true,
+   "ink_px": 1818,
+   "iou0": 0.7038461538461539,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 163,
+   "sid": "woman_pot",
+   "role": "support",
+   "iou": 0.8274802458296752,
+   "survived": true,
+   "ink_px": 1558,
+   "iou0": 0.8274802458296752,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 164,
+   "sid": "tree",
+   "role": "support",
+   "iou": 0.67578125,
+   "survived": true,
+   "ink_px": 960,
+   "iou0": 0.67578125,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 238,
+   "sid": "farmer",
+   "role": "support",
+   "iou": 0.7456714120815698,
+   "survived": true,
+   "ink_px": 1423,
+   "iou0": 0.7456714120815698,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 239,
+   "sid": "animal",
+   "role": "support",
+   "iou": 0.7241918665276329,
+   "survived": true,
+   "ink_px": 1058,
+   "iou0": 0.7241918665276329,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 240,
+   "sid": "man",
+   "role": "support",
+   "iou": 0.8189054726368159,
+   "survived": true,
+   "ink_px": 1290,
+   "iou0": 0.8189054726368159,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 314,
+   "sid": "hut",
+   "role": "hero",
+   "iou": 0.5150848999393571,
+   "survived": true,
+   "ink_px": 13408,
+   "iou0": 0.5150848999393571,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 315,
+   "sid": "bird",
+   "role": "support",
+   "iou": 0.6012195121951219,
+   "survived": true,
+   "ink_px": 774,
+   "iou0": 0.6012195121951219,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 316,
+   "sid": "bird",
+   "role": "support",
+   "iou": 0.5320872274143302,
+   "survived": true,
+   "ink_px": 717,
+   "iou0": 0.5320872274143302,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 321,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.673469387755102,
+   "survived": true,
+   "ink_px": 77,
+   "iou0": 0.673469387755102,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 325,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.5728476821192053,
+   "survived": true,
+   "ink_px": 104,
+   "iou0": 0.5728476821192053,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 333,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.5804195804195804,
+   "survived": true,
+   "ink_px": 102,
+   "iou0": 0.5804195804195804,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 334,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.6586206896551724,
+   "survived": true,
+   "ink_px": 107,
+   "iou0": 0.6586206896551724,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  }
+ ],
+ "timing": {
+  "layout_main": 0.02092417200037744,
+  "stylize_main": 68.13784637099889,
+  "render_preview": 0.9775582949951058,
+  "total": 71.43726307500037
+ },
+ "coverage": {
+  "main": 0.1262972306633794
+ }
+}

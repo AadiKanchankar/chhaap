@@ -1,0 +1,1141 @@
+{
+ "id": "d_ex_06",
+ "mode": "vector",
+ "seed": 46,
+ "textured": true,
+ "label": "AI-generated, Mandana-inspired. Not a hand-painted Mandana.",
+ "packs": [
+  "mandana"
+ ],
+ "settings": {},
+ "plan": {
+  "product": "frame_a4",
+  "template": "mandana_medallion",
+  "density": "dense",
+  "repeat": null,
+  "palette_id": "white_on_maroon",
+  "border_style": "dehri",
+  "story_beats": [
+   {
+    "beat": "the lotus",
+    "symbol_ids": [
+     "m_lotus8",
+     "m_shahphulya"
+    ]
+   },
+   {
+    "beat": "arrival",
+    "symbol_ids": [
+     "m_paglya",
+     "m_surya",
+     "m_chandra"
+    ]
+   },
+   {
+    "beat": "Lakshmi's square",
+    "symbol_ids": [
+     "m_lakshmi_chowk",
+     "m_lakshmi_rath"
+    ]
+   },
+   {
+    "beat": "welcome",
+    "symbol_ids": [
+     "m_paglya",
+     "m_bijni"
+    ]
+   }
+  ],
+  "hero_symbol_id": "m_lakshmi_chowk",
+  "notes": "rules: stories diwali, mandana"
+ },
+ "parts": [
+  {
+   "name": "main",
+   "W": 2480,
+   "H": 3508,
+   "template": "mandana_medallion",
+   "repeat": null,
+   "border": "dehri",
+   "stylize": true,
+   "seed": 460
+  }
+ ],
+ "previews": [
+  "preview_design.png"
+ ],
+ "elements": [
+  {
+   "id": 0,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 1,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 2,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 3,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 4,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 5,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 6,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 7,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 8,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 9,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 10,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 11,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 12,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 13,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 14,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 15,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 16,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 17,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 18,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 19,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 20,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 23,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 24,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 25,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 26,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 27,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 28,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 29,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 30,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 31,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 32,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 33,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 34,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 35,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 36,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 37,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 38,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 39,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 40,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 41,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 42,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 43,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 46,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 47,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 48,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 49,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 50,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 51,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 52,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 53,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 54,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 55,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 56,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 57,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 58,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 59,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 60,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 61,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 62,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 63,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 64,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 65,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 66,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 67,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 68,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 69,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 70,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 71,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 72,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 73,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 74,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 77,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 78,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 79,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 80,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 81,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 82,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 83,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 84,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 85,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 86,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 87,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 88,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 89,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 90,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 91,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 92,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 93,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 94,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 95,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 96,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 97,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 98,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 99,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 100,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 101,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 102,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 103,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 104,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 105,
+   "sid": "m_dehri",
+   "role": "border",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 108,
+   "sid": "m_lakshmi_chowk",
+   "role": "hero",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 109,
+   "sid": "m_lotus8",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 110,
+   "sid": "m_lotus8",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 111,
+   "sid": "m_lotus8",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 112,
+   "sid": "m_lotus8",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 114,
+   "sid": "m_shahphulya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 115,
+   "sid": "m_shahphulya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 116,
+   "sid": "m_shahphulya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 117,
+   "sid": "m_shahphulya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 118,
+   "sid": "m_shahphulya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 119,
+   "sid": "m_shahphulya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 120,
+   "sid": "m_shahphulya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 121,
+   "sid": "m_shahphulya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 122,
+   "sid": "m_shahphulya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 123,
+   "sid": "m_shahphulya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 124,
+   "sid": "m_shahphulya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 125,
+   "sid": "m_shahphulya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 127,
+   "sid": "m_paglya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 128,
+   "sid": "m_paglya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 129,
+   "sid": "m_paglya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 130,
+   "sid": "m_paglya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 131,
+   "sid": "m_paglya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 132,
+   "sid": "m_paglya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 133,
+   "sid": "m_paglya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 134,
+   "sid": "m_paglya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 135,
+   "sid": "m_paglya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 136,
+   "sid": "m_paglya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 137,
+   "sid": "m_paglya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 138,
+   "sid": "m_paglya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 140,
+   "sid": "m_surya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 141,
+   "sid": "m_surya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 142,
+   "sid": "m_surya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 143,
+   "sid": "m_surya",
+   "role": "support",
+   "survived": true,
+   "path": "vector",
+   "part": "main"
+  }
+ ],
+ "timing": {
+  "layout_main": 0.25147014899994247,
+  "render_preview": 0.8538535659972695,
+  "total": 1.1053898460013443
+ },
+ "coverage": {
+  "main": 0.16041224700418555
+ }
+}

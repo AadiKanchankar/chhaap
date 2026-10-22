@@ -1,0 +1,22 @@
+[
+ {"brief": "A3 frame for my parents' anniversary. Wedding and harvest, maroon and mustard, busy, traditional border.", "product": "frame_a3", "colours": ["maroon", "mustard"], "density": "dense", "stories": ["wedding", "harvest"]},
+ {"brief": "Wall art for a living room showing the tarpa dance, white on indigo.", "product": "frame_a4", "colours": ["indigo"], "density": null, "stories": ["tarpa"]},
+ {"brief": "Saree with forest animals and peacocks, forest green and saffron, a chain of dancers on the border.", "product": "saree", "colours": ["green", "saffron"], "density": null, "stories": ["forest"]},
+ {"brief": "Diary cover about village life, mustard and rust, calm and minimal.", "product": "diary", "colours": ["mustard", "rust"], "density": "sparse", "stories": ["village_day"]},
+ {"brief": "Phone wallpaper of the tarpa dance in rings, white on charcoal.", "product": "phone", "colours": ["charcoal"], "density": null, "stories": ["tarpa"]},
+ {"brief": "Wallpaper for a nursery with jungle animals, teal and ochre, not too busy.", "product": "wallpaper", "colours": ["teal", "ochre"], "density": "sparse", "stories": ["forest"]},
+ {"brief": "T-shirt print of a harvest scene, black and white.", "product": "tee", "colours": ["black", "white"], "density": null, "stories": ["harvest"]},
+ {"brief": "Notebook cover for a farmer's market stall: sowing and reaping, earthy red.", "product": "diary", "colours": ["red"], "density": null, "stories": ["harvest"]},
+ {"brief": "My sister is getting married. A framed print with the marriage square, navy and coral, packed with detail.", "product": "frame_a4", "colours": ["navy", "coral"], "density": "dense", "stories": ["wedding"]},
+ {"brief": "Lock screen with peacocks and fish by the river, dark green.", "product": "phone", "colours": ["green"], "density": null, "stories": ["forest"]},
+ {"brief": "A sari for Diwali: festival dancers, crimson and gold, rich.", "product": "saree", "colours": ["crimson", "gold"], "density": "dense", "stories": ["tarpa"]},
+ {"brief": "Kitchen wall paper, everyday village chores, cream and rust, airy.", "product": "wallpaper", "colours": ["cream", "rust"], "density": "sparse", "stories": ["village_day"]},
+ {"brief": "Tee with a big wedding chauk on the chest, indigo and coral.", "product": "tee", "colours": ["indigo", "coral"], "density": null, "stories": ["wedding"]},
+ {"brief": "A3 poster of the forest at night, white on black, simple.", "product": "frame_a3", "colours": ["white", "black"], "density": "sparse", "stories": ["forest"]},
+ {"brief": "Journal for a dance teacher, tarpa music, saffron.", "product": "diary", "colours": ["saffron"], "density": null, "stories": ["tarpa"]},
+ {"brief": "Frame for a new home: the village, huts and wells, geru red, traditional.", "product": "frame_a4", "colours": ["geru"], "density": null, "stories": ["village_day"]},
+ {"brief": "Mobile wallpaper, harvest goddess with grain, mustard yellow, detailed.", "product": "phone", "colours": ["mustard"], "density": "dense", "stories": ["harvest"]},
+ {"brief": "Room wallpaper in brick repeat, animals of the forest, ivory and forest green.", "product": "wallpaper", "colours": ["ivory", "green"], "density": null, "stories": ["forest"]},
+ {"brief": "Shirt for a wedding guest, procession with drummers and a horse, maroon.", "product": "tee", "colours": ["maroon"], "density": null, "stories": ["wedding"]},
+ {"brief": "A4 print for a harvest festival, dancers and crops, teal and white, balanced.", "product": "frame_a4", "colours": ["teal", "white"], "density": "balanced", "stories": ["harvest", "tarpa"]}
+]

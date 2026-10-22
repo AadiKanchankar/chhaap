@@ -1,0 +1,29 @@
+# environment and caches
+.venv/
+__pycache__/
+*.pyc
+graphify-out/
+chhaap/graphify-out/
+# scraped training images: not ours to redistribute (rebuild with scripts/prepare_data.py)
+data/raw/
+data/clean/
+*_train.zip
+models/*.zip
+models/checkpoints/
+models/clip_probe.pkl
+# generated runs (results live in eval/results); keep the demo gallery designs
+runs/*
+!runs/d_ex_*/
+!runs/d_1a162a6fae7/
+!runs/d_1a162a6fb00/
+!runs/d_1a1625321af/
+# local state, logs, private files
+app.db
+*.log
+Export-SS/
+TASK.md
+TASK2.md
+.claude/
+paper/*.aux
+paper/*.log
+paper/*.out

@@ -1,0 +1,573 @@
+{
+ "id": "d_1a1625321af",
+ "mode": "stylized",
+ "seed": 21,
+ "textured": true,
+ "label": "AI-generated, Warli-inspired. Not a GI-certified Warli painting.",
+ "packs": [
+  "warli"
+ ],
+ "settings": {},
+ "plan": {
+  "product": "frame_a3",
+  "template": "medallion",
+  "density": "dense",
+  "repeat": null,
+  "palette_id": "white_on_maroon",
+  "border_style": "triangles",
+  "story_beats": [
+   {
+    "beat": "the marriage square",
+    "symbol_ids": [
+     "lagna_chauk",
+     "pachsera_deva"
+    ]
+   },
+   {
+    "beat": "reaping",
+    "symbol_ids": [
+     "kansari",
+     "tree",
+     "ladder"
+    ]
+   },
+   {
+    "beat": "procession",
+    "symbol_ids": [
+     "drummer",
+     "tarpa_player",
+     "horse"
+    ]
+   },
+   {
+    "beat": "celebration",
+    "symbol_ids": [
+     "woman",
+     "man",
+     "tree",
+     "bird"
+    ]
+   }
+  ],
+  "hero_symbol_id": "lagna_chauk",
+  "notes": "rules: stories wedding, harvest"
+ },
+ "parts": [
+  {
+   "name": "main",
+   "W": 3508,
+   "H": 4961,
+   "template": "medallion",
+   "repeat": null,
+   "border": "triangles",
+   "stylize": true,
+   "seed": 210
+  }
+ ],
+ "previews": [
+  "preview_design.png"
+ ],
+ "elements": [
+  {
+   "id": 162,
+   "sid": "lagna_chauk",
+   "role": "hero",
+   "iou": 0.5778367560041768,
+   "survived": true,
+   "ink_px": 13800,
+   "iou0": 0.5906701418032425,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 163,
+   "sid": "pachsera_deva",
+   "role": "support",
+   "iou": 0.6530249110320284,
+   "survived": true,
+   "ink_px": 988,
+   "iou0": 0.45151665837891597,
+   "survived0": false,
+   "path": "rerun",
+   "part": "main"
+  },
+  {
+   "id": 164,
+   "sid": "kansari",
+   "role": "support",
+   "iou": 0.5480364656381487,
+   "survived": true,
+   "ink_px": 1397,
+   "iou0": 0.4831345826235094,
+   "survived0": false,
+   "path": "rerun",
+   "part": "main"
+  },
+  {
+   "id": 165,
+   "sid": "tree",
+   "role": "support",
+   "iou": 0.4487034949267193,
+   "survived": false,
+   "ink_px": 749,
+   "iou0": 0.505055880787653,
+   "survived0": true,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 166,
+   "sid": "ladder",
+   "role": "support",
+   "iou": 0.4722222222222222,
+   "survived": false,
+   "ink_px": 502,
+   "iou0": 0.4425956738768719,
+   "survived0": false,
+   "path": "vector",
+   "part": "main"
+  },
+  {
+   "id": 167,
+   "sid": "drummer",
+   "role": "support",
+   "iou": 0.5975215517241379,
+   "survived": true,
+   "ink_px": 1080,
+   "iou0": 0.5475427350427351,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 168,
+   "sid": "tarpa_player",
+   "role": "support",
+   "iou": 0.5914462577377603,
+   "survived": true,
+   "ink_px": 1027,
+   "iou0": 0.5065430752453653,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 169,
+   "sid": "horse",
+   "role": "support",
+   "iou": 0.5276344878408253,
+   "survived": true,
+   "ink_px": 726,
+   "iou0": 0.42021276595744683,
+   "survived0": false,
+   "path": "rerun",
+   "part": "main"
+  },
+  {
+   "id": 170,
+   "sid": "woman",
+   "role": "support",
+   "iou": 0.5417249417249417,
+   "survived": true,
+   "ink_px": 1063,
+   "iou0": 0.5114259597806216,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 171,
+   "sid": "man",
+   "role": "support",
+   "iou": 0.5584170854271356,
+   "survived": true,
+   "ink_px": 903,
+   "iou0": 0.5405742821473158,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 172,
+   "sid": "bird",
+   "role": "support",
+   "iou": 0.6604708798017348,
+   "survived": true,
+   "ink_px": 499,
+   "iou0": 0.49473684210526314,
+   "survived0": false,
+   "path": "rerun",
+   "part": "main"
+  },
+  {
+   "id": 174,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.740506329113924,
+   "survived": true,
+   "ink_px": 77,
+   "iou0": 0.5798816568047337,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 181,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7421383647798742,
+   "survived": true,
+   "ink_px": 70,
+   "iou0": 0.6642857142857143,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 183,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.6428571428571429,
+   "survived": true,
+   "ink_px": 83,
+   "iou0": 0.45348837209302323,
+   "survived0": false,
+   "path": "rerun",
+   "part": "main"
+  },
+  {
+   "id": 195,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.8173076923076923,
+   "survived": true,
+   "ink_px": 55,
+   "iou0": 0.7264957264957265,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 197,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7032258064516129,
+   "survived": true,
+   "ink_px": 74,
+   "iou0": 0.6687116564417178,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 203,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7,
+   "survived": true,
+   "ink_px": 82,
+   "iou0": 0.49748743718592964,
+   "survived0": false,
+   "path": "rerun",
+   "part": "main"
+  },
+  {
+   "id": 208,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7218045112781954,
+   "survived": true,
+   "ink_px": 59,
+   "iou0": 0.5214285714285715,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 210,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.74,
+   "survived": true,
+   "ink_px": 69,
+   "iou0": 0.6787878787878788,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 214,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7483870967741936,
+   "survived": true,
+   "ink_px": 78,
+   "iou0": 0.5892857142857143,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 219,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.782312925170068,
+   "survived": true,
+   "ink_px": 73,
+   "iou0": 0.7777777777777778,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 221,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7913043478260869,
+   "survived": true,
+   "ink_px": 52,
+   "iou0": 0.47107438016528924,
+   "survived0": false,
+   "path": "rerun",
+   "part": "main"
+  },
+  {
+   "id": 223,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.8095238095238095,
+   "survived": true,
+   "ink_px": 55,
+   "iou0": 0.5254237288135594,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 232,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7569444444444444,
+   "survived": true,
+   "ink_px": 70,
+   "iou0": 0.6938775510204082,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 233,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.73224043715847,
+   "survived": true,
+   "ink_px": 85,
+   "iou0": 0.6782178217821783,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 237,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7076923076923077,
+   "survived": true,
+   "ink_px": 62,
+   "iou0": 0.674074074074074,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 239,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7485380116959064,
+   "survived": true,
+   "ink_px": 79,
+   "iou0": 0.6497175141242938,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 240,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7272727272727273,
+   "survived": true,
+   "ink_px": 53,
+   "iou0": 0.6458333333333334,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 241,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.8461538461538461,
+   "survived": true,
+   "ink_px": 66,
+   "iou0": 0.5441176470588235,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 248,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7167630057803468,
+   "survived": true,
+   "ink_px": 80,
+   "iou0": 0.5894736842105263,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 252,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7936507936507936,
+   "survived": true,
+   "ink_px": 58,
+   "iou0": 0.5304347826086957,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 267,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.8198198198198198,
+   "survived": true,
+   "ink_px": 58,
+   "iou0": 0.75,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 270,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7080745341614907,
+   "survived": true,
+   "ink_px": 74,
+   "iou0": 0.4437869822485207,
+   "survived0": false,
+   "path": "rerun",
+   "part": "main"
+  },
+  {
+   "id": 280,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7920792079207921,
+   "survived": true,
+   "ink_px": 46,
+   "iou0": 0.6666666666666666,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 291,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.8170731707317073,
+   "survived": true,
+   "ink_px": 46,
+   "iou0": 0.8048780487804879,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 297,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.8207547169811321,
+   "survived": true,
+   "ink_px": 54,
+   "iou0": 0.6868686868686869,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 301,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.8103448275862069,
+   "survived": true,
+   "ink_px": 60,
+   "iou0": 0.6870229007633588,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 302,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7377049180327869,
+   "survived": true,
+   "ink_px": 59,
+   "iou0": 0.5390625,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 304,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.8469387755102041,
+   "survived": true,
+   "ink_px": 51,
+   "iou0": 0.7596153846153846,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 305,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7913043478260869,
+   "survived": true,
+   "ink_px": 57,
+   "iou0": 0.6324786324786325,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  },
+  {
+   "id": 308,
+   "sid": "bird",
+   "role": "filler",
+   "iou": 0.7851239669421488,
+   "survived": true,
+   "ink_px": 56,
+   "iou0": 0.6062992125984252,
+   "survived0": true,
+   "path": "as_generated",
+   "part": "main"
+  }
+ ],
+ "timing": {
+  "layout_main": 0.09075581000070088,
+  "stylize_main": 243.13935127700097,
+  "render_preview": 0.9292077970021637,
+  "total": 245.26411646699853
+ },
+ "coverage": {
+  "main": 0.1744186046511628
+ }
+}
